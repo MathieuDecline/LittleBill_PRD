@@ -1,3 +1,2 @@
-#API Flask for Preprocessing and OCR
-
-#Launch app.py and open localhost:5000/upload
+## API for image processing and OCR
+Run app.py and open localhost:5000/upload
