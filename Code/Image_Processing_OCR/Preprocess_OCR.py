@@ -178,7 +178,7 @@ def Img_Boxes_Characters_Text(Input_Image, Output_Image):
         x,y,w,h = int(b[1]),int(b[2]),int(b[3]),int(b[4])
         cv2.rectangle(img,(x,hImg-y),(w,hImg-h),(0,0,255),1)
         cv2.putText(img,b[0], (x,hImg-y+10),cv2.FONT_HERSHEY_COMPLEX,1,(50,50,255),2)
-        cv2.imwrite('/Results/'+ Output_Image, img)
+        cv2.imwrite('Outputs/'+ Output_Image, img)
 
 #Detecting Words - Plot Boxes
 #Input : InputImage , OutputImage
@@ -195,7 +195,7 @@ def Img_Boxes_Words_Text(Input_Image, Output_Image):
                 x,y,w,h = int(b[6]),int(b[7]),int(b[8]),int(b[9])
                 cv2.rectangle(img,(x,y),(w+x,h+y),(0,0,255),1)
                 cv2.putText(img,b[11], (x,y+10),cv2.FONT_HERSHEY_COMPLEX,1,(50,50,255),2)          
-    cv2.imwrite('/Results/'+ Output_Image, img)
+    cv2.imwrite('Outputs/'+ Output_Image, img)
     return boxes
 
 
