@@ -72,7 +72,7 @@ def BinarizationSimple(greyImage, threshold):
 def printTexteRecu(imageRecu):
     #config = ('-l fra --oem 1 --psm 3')
     text = pytesseract.image_to_string(imageRecu)
-    text_file = open('/Outputs/Text_from_image.txt', 'w+')
+    text_file = open('Outputs/Text_from_image.txt', 'w+')
     text_file.write(text)
     print (text)
 
