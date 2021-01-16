@@ -1,1 +1,1 @@
-App for image processing and OCR
+## Script for image processing and OCR
