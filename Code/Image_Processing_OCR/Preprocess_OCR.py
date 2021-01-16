@@ -28,7 +28,7 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 def readAndGreyscale(imagePath):
     img_0 = cv2.imread(imagePath)
     img=cv2.cvtColor(img_0, cv2.COLOR_BGR2GRAY)
-    cv2.imwrite('img_gray.jpg', img)
+    cv2.imwrite('Outputs/img_gray.jpg', img)
     return img
 
 #Recherche du seuil minimum optimal selon l histogramme
@@ -63,7 +63,7 @@ def trouverTresholdOptimal(greyImage):
 def BinarizationSimple(greyImage, threshold):
     ret,thresh=cv2.threshold(greyImage,threshold,255,cv2.THRESH_BINARY)
     print(trouverTresholdOptimal(greyImage))
-    cv2.imwrite('Results/img_binarized.jpg', thresh)
+    cv2.imwrite('Outputs/img_binarized.jpg', thresh)
     return thresh
 
 #Print le texte present sur une image
@@ -72,7 +72,7 @@ def BinarizationSimple(greyImage, threshold):
 def printTexteRecu(imageRecu):
     #config = ('-l fra --oem 1 --psm 3')
     text = pytesseract.image_to_string(imageRecu)
-    text_file = open('/Results/Text_from_image.txt', 'w+')
+    text_file = open('/Outputs/Text_from_image.txt', 'w+')
     text_file.write(text)
     print (text)
 
