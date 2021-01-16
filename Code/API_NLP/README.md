@@ -1,2 +1,3 @@
-# lb-receipt-classifier
-Serve LB receipt classifier
+## API to make prediction with chosen model
+
+
