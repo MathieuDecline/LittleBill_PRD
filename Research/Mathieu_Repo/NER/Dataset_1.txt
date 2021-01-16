@@ -1,0 +1,4584 @@
+text,intent
+BOOK TA .K(TAMAN DAYA) SDN BND    ,company
+NO.53 55 57 & 59  JALAN SAGU 18     ,address
+TAMAN DAYA     ,address
+81100 JOHOR BAHRU     ,address
+JOHOR.    ,address
+25/12/2018 8:13:39 PM    ,date
+9.00    ,total
+9.00    ,total
+9.00    ,total
+INDAH GIFT & HOME DECO    ,company
+27 JALAN DEDAP 13     ,address
+TAMAN JOHOR JAYA     ,address
+81100 JOHOR BAHRU JOHOR.    ,address
+19/10/2018 20:49:59 #01    ,date
+60.30    ,total
+MR D.T.Y. (JOHOR) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+(MR DIY TESCO TERBAU)    ,address
+12-01-19 21:13 SH01 ZK09    ,date
+YONGFATT ENTERPRISE    ,company
+NO 122.124 JALAN DEDAP 13    ,address
+81100 JOHOR BAHRU    ,address
+25/12/2018    ,date
+80.90    ,total
+MR D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+(TESCO PUTRA NILAI)    ,address
+18-11-18 13 : 58 SH01 ZI53    ,date
+ABC HO TRADING    ,company
+NO.2&4 JALAN HARMONI 3/2     ,address
+TAMAN DESA HARMONI.    ,address
+81100 JOHOR BAHRU JOHOR    ,address
+09/01/2019 8:01:11 PM    ,date
+31.00    ,total
+31.00    ,total
+31.00    ,total
+SOON HUAT MACHINERY ENTERPRISE    ,company
+NO.53 JALAN PUTRA 1     ,address
+TAMAN SRIPUTRA     ,address
+81200 JOHOR BAHRU    ,address
+JOHOR    ,address
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+327.00    ,total
+327.00    ,total
+327.00    ,total
+327.00    ,total
+S.H.H. MOTOR (SUNGAI RENGIT) SDN. BHD.    ,company
+NO. 343  JALAN KURAU  SUNGAI RENGIT     ,address
+81620 PENGERANG  JOHOR.    ,address
+20.00    ,total
+20.00    ,total
+20.00    ,total
+20.00    ,total
+20.00    ,total
+23-01-2019 13:14:15 PM  PRINT BY: ROOT    ,date
+PERNIAGAAN ZHENG HUI    ,company
+NO.59 JALAN PERMAS 9/5    ,address
+BANDAR BARU PERMAS JAYA    ,address
+81760 JOHOR BAHRU    ,address
+112.45    ,total
+112.45    ,total
+GERBANG ALAF RESTAURANTS SDN BHD    ,company
+LEVEL 6  BANGUNAN TH  DAMANSARA UPTOWN3    ,address
+NO.3  JALAN SS21/39 47400 PETALING JAYA    ,address
+SELANGOR    ,address
+26.60    ,total
+26.60    ,total
+SAM SAM TRADING CO    ,company
+67 JLN MEWAH 25/63 TMN SRI MUDA     ,address
+40400 SHAH ALAM.    ,address
+29-12-2017    ,date
+AIK HUAT HARDWARE    ,company
+ENTERPRISE (SETIA    ,company
+ALAM) SDN BHD    ,company
+NO. 17-G  JALAN SETIA INDAH    ,address
+(X) U13/X  SETIA ALAM     ,address
+SEKSYEN U13  40170 SHAH ALAM     ,address
+15.00    ,total
+15.00 S    ,total
+15.00    ,total
+15.00    ,total
+15.00    ,total
+HOME MASTER HARDWARE &    ,company
+ELECTRICAL    ,company
+NO.113G & 115G  JALAN SETIA GEMBILANG    ,address
+U13/BG BANDAR SETIA ALAM     ,address
+40170 BANDAR SETIA ALAM     ,address
+SELANGOR.    ,address
+22/12/2017 14:03    ,date
+15.90    ,total
+15.90    ,total
+15.90    ,total
+15.90    ,total
+15.90    ,total
+RESTORAN HASSANBISTRO    ,company
+NO.2-1-1 JALAN SETIA PRIMA Q    ,address
+U 13/Q SETIA ALAM 40170    ,address
+SELANGOR    ,address
+15.00    ,total
+15.00    ,total
+15.00 ZR    ,total
+15.00    ,total
+15.00    ,total
+15.00    ,total
+ASIA MART    ,company
+NO.23 BATU 10  TAMAN SENTOSA     ,address
+JALAN KAPAR  42200 KLANG  SELANGOR.    ,address
+32.70    ,total
+HOME MASTER HARDWARE &    ,company
+ELECTRICAL    ,company
+NO.113G & 115G  JALAN SETIA GEMBILANG    ,address
+U13/BG BANDAR SETIA ALAM     ,address
+40170 BANDAR SETIA ALAM     ,address
+SELANGOR.    ,address
+22/12/2017 14:03    ,date
+15.90    ,total
+15.90    ,total
+15.90    ,total
+15.90    ,total
+15.90    ,total
+LIGHTROOM GALLERY SDN BHD    ,company
+NO: 28  JALAN ASTANA 1C     ,address
+BANDAR BUKIT RAJA  41050    ,address
+KLANG SELANGOR D.E  MALAYSIA    ,address
+73.00    ,total
+73.00    ,total
+LIGHTROOM GALLERY SDN BHD    ,company
+NO: 28  JALAN ASTANA 1C     ,address
+BANDAR BUKIT RAJA  41050    ,address
+KLANG SELANGOR D. E  MALAYSIA    ,address
+39.80    ,total
+39.80    ,total
+LIGHTROOM GALLERY SDN BHD    ,company
+NO: 28  JALAN ASTANA 1C     ,address
+BANDAR BUKIT RAJA  41050    ,address
+KLANG SELANGOR D.E  MALAYSIA    ,address
+73.00    ,total
+73.00    ,total
+SHELL ISNI PETRO TRADING    ,company
+LOT 2685 JLN GENTING KLANG    ,address
+53300 KL    ,address
+SITE 1066    ,address
+86.00 A    ,total
+86.00    ,total
+86.00    ,total
+86.00    ,total
+SHELL LOYALTY CARD    ,company
+18/03/18 15:17 06051 02    ,date
+SYL ROASTED DELIGHTS SDN. BHD.    ,company
+06/03/2018    ,date
+54.50    ,total
+TEO HENG STATIONERY & BOOKS    ,company
+NO. 53  JALAN BESAR  45600 BATANG BERJUNTAI    ,address
+SELANGOR DARUL EHSAN    ,address
+4.90    ,total
+4.90    ,total
+FUYI MINI MARKET    ,company
+NO 43-45-47G     ,address
+TAMAN SEJATI     ,address
+IJOK  45600 BESTARI JAYA     ,address
+KUALA SELANGOR.    ,address
+25/01/2018 1:22:56PM    ,date
+9.00    ,total
+9.00    ,total
+MARKET    ,company
+9.00    ,total
+TEO HENG STATIONERY & BOOKS    ,company
+SELANGOR DARUL EHSAN    ,address
+27.55    ,total
+27.55    ,total
+TEO HENG STATIONERY & BOOKS    ,company
+SELANGOR DARUL EHSAN    ,address
+55.10    ,total
+55.10    ,total
+TEO HENG STATIONERY & BOOKS    ,company
+SELANGOR DARUL EHSAN    ,address
+18.00    ,total
+18.00    ,total
+NO. 53  JALAN BESAR  45600 BATANG BERJUNTAI    ,address
+SELANGOR DARUL EHSAN    ,address
+153.35    ,total
+153.35    ,total
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+14-03-18 21:49 SH03 ZJ20    ,date
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 2811  JALAN ANGSA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1076-IJOK    ,address
+24-01-18    ,date
+2.50    ,total
+2.50    ,total
+C W KHOO HARDWARE SDN BHD    ,company
+NO.50   JALAN PBS 14/11      ,address
+KAWASAN PERINDUSTRIAN BUKIT SERDANG     ,address
+21.20    ,total
+21.20    ,total
+21.20    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+05 MAR 2018 18:24    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$8.20    ,total
+AEON CO. (M) BHD (126926-H)    ,address
+3RD FLR  AEON TAMAN MALURI SC    ,address
+JLN JEJAKA  TAMAN MALURI    ,address
+CHERAS  55100 KUALA LUMPUR    ,address
+75.00    ,total
+75.00    ,total
+75.00    ,total
+06/03/2018 20:01    ,date
+AEON PERMAS JAYA    ,address
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+03 MAR 2018 18:22    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$8.20    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+10 MAR 2018 18:24    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+PERNIAGAAN ZHENG HUI    ,company
+NO.59 JALAN PERMAS 9/5    ,address
+BANDAR BARU PERMAS JAYA    ,address
+81750 JOHOR BAHRU    ,address
+332.30    ,total
+332.30    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+12 MAR 2018 18:19    ,address
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$8.20    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+14 MAR 2018 18:40    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$8.20    ,total
+WARAKUYA PERMAS CITY SDN BHD    ,company
+JALAN PERMAS UTARA 1.    ,address
+PERMAS JAYA 81750 MASAI JOHOR    ,address
+1    ,address
+57.80    ,total
+YHM AEON TEBRAU CITY    ,company
+S117  SECOND FLOOR     ,address
+AEON TEBRAU CITY     ,address
+1  JALAN DESA TEBRAU     ,address
+TAMAN DESA TEBRAU     ,address
+81100 JOHOR BAHRU  JOHOR.    ,address
+11/03/2018 06:20 PM    ,date
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+13.10    ,total
+13.10    ,total
+13.10    ,total
+1    ,address
+AVTIVO PLAZA LOT B-F-11  BLOCK B    ,address
+NO1.JALAN PJU 9/1 D'SARA AVEVUE    ,address
+BANDAR SRI D'SARA  52000 XL    ,address
+189.75    ,total
+THREE STOOGES    ,company
+109  SS21/1A     ,address
+DAMANSARA UTAMA    ,address
+343.95    ,total
+THREE STOOGES    ,company
+109  SS21/1A     ,address
+DAMANSARA UTAMA    ,address
+174.90    ,total
+TASTE OF THE WORLD SDN BHD    ,company
+LOT 38  39 101 BOULEVARD     ,address
+JALAN KENARI 5  BANDAR PUCHONG JAYA     ,address
+47170 PUCHONG  SELANGOR    ,address
+32 PUB & BISTRO OWN BY CNU TRADING    ,company
+78G  JALAN SS21/62     ,address
+DAMANSARA UTAMA     ,address
+47400 PETALING JAYA.    ,address
+190.00    ,total
+190.00    ,total
+190.00    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+18 MAR 2018 18:25    ,date
+12 JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$8.60    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+27 MAR 2018 18:46    ,date
+12 JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+$6.90    ,total
+PASAR MINI JIN SENG    ,company
+379 JALAN PERMAS SATU     ,address
+81750 PLENTONG JOHOR.    ,address
+18/03/18    ,date
+28.60    ,total
+28.60    ,total
+18/03/18 09:03 #002-1550040#    ,date
+RESTAURANT SIN DU    ,company
+K3-113 JL IBRAHIM SULTAN    ,address
+80300 JOHOR BAHRU    ,address
+JOHOR    ,address
+09/03/2018 21:28    ,date
+170.00    ,total
+YONG TAT HARDWARE TRADING    ,company
+TAMAN AIR BIRU     ,address
+81700 PASIR GUDANG     ,address
+JOHOR.    ,address
+100.90    ,total
+PERNIAGAAN ZHENG HUI    ,company
+NO.59 JALAN PERMAS 9/5    ,address
+BANDAR BARU PERMAS JAYA    ,address
+8.00    ,total
+8.00    ,total
+LOT 50  FLOOR T2 SKY AVENUE GENTING HIGHLANDS    ,address
+PAHANG  69000 PAHANG MALAYSLA    ,address
+593.10    ,total
+593.10    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+22 MAR 2018 18:24    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$7.60    ,total
+PAGOH REST AND SERVICE AREA    ,address
+LOT R1  KWS REHAT & RAWAT PAGOH ARAH UTARA     ,address
+SIMPANG AMPAT PAGOH  LEBUHRAYA UTARA SELATAN.     ,address
+84600 PAGOH JOHOR    ,address
+10.00    ,total
+10.00 ZRL    ,total
+10.00    ,total
+10.00    ,total
+10.00    ,total
+23/03/2018 9:34:40 AM    ,date
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+24 MAR 2018 18:23    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+$9.20    ,total
+CARREFOUR RESTAURANT    ,company
+18 JALAN PERMAS 10/7    ,address
+BANDAR BARU PERMAS JAYA     ,address
+MASAI JOHOR    ,address
+13.80    ,total
+13.80    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+19 MAR 2018 18:26    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$8.20    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+21 MAR 2018 17:59    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$8.70    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+29 MAR 2018 18:19    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$7.10    ,total
+$7.10    ,total
+$7.10    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+30 MAR 2018 18:17    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$8.20    ,total
+TRIPLE SIX POINT ENTERPRISE 666    ,company
+NO 14& 16 JALAN PERMAS 4/3 BANDAR BARU PERMAS JAY    ,address
+7.60    ,total
+7.60    ,total
+BENS INDEPENDENT GROCER SDN. BHD    ,company
+LOT 6  JALAN BATAI     ,address
+PLAZA BATAI  DAMANSARA HEIGHTS    ,address
+50490  KUALA LUMPUR    ,address
+12/03/18    ,date
+77.20    ,total
+77.20    ,total
+NANDO'S     ,company
+NANDO'S CHICKENLAND MALAYSIA    ,company
+SDN BHD    ,company
+NANDO'S 1 MONT KIARA    ,company
+UNIT G-13  GROUND FLOOR  NO.1    ,address
+JLN KIARA  MONT KIARA    ,address
+50480 KUALA LUMPUR    ,address
+28 MAR 18 18:32:36    ,date
+129.30    ,total
+129.30    ,total
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 2811  JALAN ANGSA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1245-DESA SRI HARTAMAS    ,address
+19-03-18    ,date
+11.40    ,total
+11.40    ,total
+PETRODELI ENTERPRISE    ,company
+LOT 485 TMN LEMBAH KERAMAT    ,address
+JLN ULU KELANG .    ,address
+54200 KUALA LUMPUR    ,address
+85.54 C    ,total
+85.54    ,total
+85.54    ,total
+85.54    ,total
+26/02/18    ,date
+SUN WONG KUT SDN BHD    ,company
+176 JLN SUNGEI BESI     ,address
+57100 KUALA LUMPUR.    ,address
+88.17 C    ,total
+88.17    ,total
+88.17    ,total
+88.17    ,total
+21/02/18    ,date
+RESTAURANT JIAWEI    ,company
+JIAWEI HOUSE    ,company
+13  JLN TASIK UTAMA 8    ,address
+MEDAN NIAGA DAMAI SG BESI    ,address
+57000 KL    ,address
+65.20    ,total
+PASARAYA BORONG PINTAR    ,company
+SDN BHD    ,company
+NO 19-G& 19-1& 19-2 JALAN TASIK UTAMA 4     ,address
+MEDAN NIAGA TASIK DAMAI    ,address
+14/03/2018 5:57:07PM    ,date
+8.20    ,total
+8.20    ,total
+8.20    ,total
+BORONG PINTAR SDN BHD    ,company
+LIAN CHI PU TIAN VEGETARIAN    ,company
+RESTAURANT SDN BHD    ,company
+54 JALAN SS23/11.    ,address
+TAMAN SEA 47400    ,address
+PETALING JAYA SELANGOR    ,address
+53.55    ,total
+PASARAYA BORONG PINTAR    ,company
+SDN BHD    ,company
+NO 19-G& 19-1& 19-2 JALAN TASIK UTAMA 4     ,address
+MEDAN NIAGA TASIK DAMAI    ,address
+3.20    ,total
+3.20    ,total
+3.20    ,total
+3.20    ,total
+3.20    ,total
+3.20    ,total
+BORONG PINTAR SDN BHD    ,company
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 2811  JALAN ANGSA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1249-TMN PANDAN CAHAYA    ,address
+20-02-18    ,date
+9.90    ,total
+9.90    ,total
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 2811  JALAN ANGSA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1317 TRILLIUM S6 BESI    ,address
+05-02-18    ,date
+141.50    ,total
+141.50    ,total
+AEON CO. (M) BHD (126926-H)    ,address
+3RD FLR  AEON TAMAN MALURI SC    ,address
+JLN JEJAKA  TAMAN MALURI    ,address
+CHERAS  55100 KUALA LUMPUR    ,address
+17.70    ,total
+17.70    ,total
+17.70    ,total
+19/02/2018 16:45    ,date
+POPULAR BOOK    ,company
+CO. (M) SDN BHD    ,company
+NO 8  JALAN 7/118B  DESA TUN RAZAK    ,address
+56000 KUALA LUMPUR  MALAYSIA    ,address
+01/03/18 19:14    ,date
+49.40    ,total
+LIAN HING STATIONERY SDN BHD    ,company
+NO.32 & 33 JALAN SR 1/9. SEKSYEN 9.    ,address
+TAMAN SERDANG RAYA     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+DARUL EHSAN    ,address
+27/03/2018    ,date
+SR    ,address
+SR    ,address
+79.50    ,total
+79.50    ,total
+SR @ A    ,address
+GL HANDICRAFT & TAIL ORING    ,company
+19  JALAN KANCIL     ,address
+OFF JALANPUDU     ,address
+55100 KUALA LUMPUR    ,address
+MALAYSIA    ,address
+20/03/2018 13:01    ,date
+102.00    ,total
+102.00    ,total
+102.00    ,total
+102.00    ,total
+102.00    ,total
+LIAN HING STATIONERY SDN BHD    ,company
+NO.32 & 33  JALAN SR 1/9  SEKSYEN 9     ,address
+TAMAN SERDANG RAYA.    ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+DARUL EHSAN    ,address
+30/03/2018    ,date
+SR    ,address
+SR    ,address
+159.00    ,total
+159.00    ,total
+SR @ A    ,address
+LIAN HING STATIONERY SDN BHD    ,company
+NO.32 & 33  JALAN SR 1/9  SEKSYEN 9     ,address
+TAMAN SERDANG RAYA     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+DARUL EHSAN    ,address
+27/03/2018    ,date
+SR    ,address
+12.00    ,total
+12.00    ,total
+12.00    ,total
+SR @ A    ,address
+BANH MI CAFE    ,company
+BANDAR PUTERI  47100 PUCHONG    ,address
+SELANGOR  MALAYSIA    ,address
+1    ,address
+1    ,address
+1    ,address
+23.25    ,total
+29-10-2017    ,date
+THAI DELICIOUS RESTAURANT    ,company
+NO.22 JALAN PUTERI 2/4    ,address
+BANDAR PUTERI    ,address
+47100 PUCHONG  SELANGOR    ,address
+02/02/2017 7:31:08 PM    ,date
+THAI    ,company
+92.80    ,total
+92.80    ,total
+MR.D.I.Y(M)SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+19-09-17 15:39 SH01 ZJ03    ,date
+HON HWA HARDWARE TRADING    ,company
+NO 37  JALAN MANIS 7  TAMAN SEGAR     ,address
+56100 CHERAS  KUALA LUMPUR.    ,address
+21/09/2017 10:20:37 AM    ,date
+10.40    ,total
+10.40    ,total
+10.40    ,total
+10.40    ,total
+10.40    ,total
+MR. D.I.Y. SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+3.90    ,total
+3.90    ,total
+RM 3.90    ,total
+RM 4.00    ,total
+RM 0.10    ,total
+24-11-17 13:11 SH01 ZT09    ,date
+HON HWA HARDWARE TRADING    ,company
+NO 37  JALAN MANIS 7  TAMAN SEGAR     ,address
+56100 CHERAS  KUALA LUMPUR.    ,address
+08/02/2017 3:43:01 PM    ,date
+277.00    ,total
+277.00    ,total
+277.00    ,total
+277.00    ,total
+VIVOPAC MARKETING SDN BHD (1070687-M)    ,company
+14 JALAN MANIS 4 TAMAN SEGAR 56100 KL    ,address
+30/05/2017 10:18:02 AM    ,date
+18.80    ,total
+MR. D.I.Y. SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+5.90    ,total
+5.90    ,total
+18-10-17 15:16 SH01 ZT09    ,date
+MR. D.I.Y. SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+9.90    ,total
+9.90    ,total
+28-12-17 18:52 SH01 ZT09    ,date
+MR. D.I.Y. (KUCHAI) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+08-03-17 13:42 SH01 B028    ,date
+IKANO HANDEL SDN BHD    ,company
+NO 2A JALAN COCHRANE    ,address
+TAMAN MALURI    ,address
+55100 KUALA LUMPUR    ,address
+538.00 SRS    ,total
+538.00    ,total
+538.00    ,total
+538.00    ,total
+IKANO HANDEL SDN BHD    ,company
+NO 2A JALAN COCHRANE    ,address
+TAMAN MALURI    ,address
+55100 KUALA LUMPUR    ,address
+99.80    ,total
+99.80    ,total
+99.80    ,total
+FY EAGLE ENTERPRISE    ,company
+NO. 42  JALAN PBS 14/11     ,address
+TAMAN PERINDUSTRIAN BUKIT SERDANG     ,address
+43300 SERI KEMBANGAN     ,address
+SELANGOR    ,address
+7.00    ,total
+7.00    ,total
+7.00    ,total
+TRI SHAAS SDN BHD (728515-M)    ,company
+4-20  JALAN RIA 25/62 TAMAN SRI MUDA    ,address
+SEKSYEN 25  40400 SHAH ALAM SELANGOR    ,address
+5.00    ,total
+5.00    ,total
+5.00    ,total
+5.00    ,total
+TRI SHAAS SDN BHD (728515-N)    ,company
+4-20  JALAN RIA 25/62 TAMAN SRI MUDA    ,address
+SEKSYEN 25  40400 SHAH ALAM SELANGOR    ,address
+85.10    ,total
+85.10    ,total
+ADVANCO COMPANY    ,company
+COMPANY REG. NO.: 725186-V    ,company
+NO 1&3  JALAN ANGSA DELIMA 12     ,address
+WANGSA LINK  WANGSA MAJU     ,address
+53300 KUALA LUMPUR    ,address
+23/03/2018 3:13:19    ,date
+83.00    ,total
+83.00    ,total
+83.00    ,total
+AEON CO. (M) BHD. (126926-H)    ,address
+3 FLOOR  AEON TAMAN MALURI SC    ,address
+JLN JEJAKA  TAMAN MALURI    ,address
+CHERAS  55100 KUALA LUMPUR    ,address
+5.90    ,total
+5.90    ,total
+5.90    ,total
+22/03/2018 10:18    ,date
+AEON DAISO FESTIVAL MALL    ,address
+AEON CO. (M) BHD (126926-H)    ,address
+3RD FLR  AEON TAMAN MALURI SC    ,address
+JLN JEJAKA  TAMAN MALURI    ,address
+CHERAS  55100 KUALA LUMPUR    ,address
+5.90    ,total
+5.90    ,total
+5.90    ,total
+09/02/2018    ,date
+POPULAR BOOK    ,company
+NO 8  JALAN 7/118B  DESA TUN RAZAK    ,address
+56000 KUALA LUMPUR  MALAYSIA    ,address
+KL FESTIVAL CITY MALL    ,address
+07/01/18 14:41    ,date
+31.45    ,total
+POPULAR BOOK    ,company
+CO. (M) SDN BHD    ,company
+NO 8  JALAN 7/118B  DESA TUN RAZAK    ,address
+56000 KUALA LUMPUR  MALAYSIA    ,address
+29/03/18    ,date
+9.65    ,total
+POPULAR BOOK    ,company
+CO. (M) SDN BHD    ,company
+NO 8  JALAN 7/118B  DESA TUN RAZAK    ,address
+56000 KUALA LUMPUR  MALAYSIA    ,address
+12/01/18    ,date
+21.00    ,total
+WAHIN HARDWARE SDN BHD    ,company
+425  JALAN PAHANG     ,address
+SETAPAK  53000 KUALA LUMPUR.    ,address
+42.40    ,total
+42.40    ,total
+42.40    ,total
+04/12/17    ,date
+WAHIN    ,company
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290  JALAN AIR PANAS     ,address
+SETAPAK     ,address
+53200  KUALA LUMPUR.    ,address
+47.70    ,total
+47.70    ,total
+47.70    ,total
+47.70    ,total
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290  JALAN AIR PANAS.    ,address
+53200  KUALA LUMPUR.    ,address
+7.42    ,total
+7.42    ,total
+7.42    ,total
+7.42    ,total
+7.42    ,total
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290  JALAN AIR PANAS.    ,address
+SETAPAK     ,address
+53200  KUALA LUMPUR     ,address
+29.68    ,total
+29.68    ,total
+29.68    ,total
+29.68    ,total
+29.68    ,total
+IKANO HANDEL SDN BHD    ,company
+NO 2A JALAN COCHRANE    ,address
+TAMAN MALURI    ,address
+55100 KUALA LUMPUR    ,address
+73.30    ,total
+73.30    ,total
+73.30    ,total
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290. JALAN AIR PANAS.    ,address
+SETAPAK     ,address
+53200  KUALA LUMPUR    ,address
+148.40    ,total
+148.40    ,total
+148.40    ,total
+148.40    ,total
+148.40    ,total
+SWEET FOREST CAFE    ,company
+NO 21  JLN BUNGA KANTAN    ,address
+TAMAN P.RAMLEE SETAPAK    ,address
+53000 KUALA LUMPUR.    ,address
+30.30    ,total
+30.30    ,total
+14-02-2018    ,date
+BEYOND BROTHERS HARDWARE    ,company
+LOT 1-0-2  JLN 1/50     ,address
+DIAMOND SQUARE     ,address
+OFF JLN GOMBAK    ,address
+53000 KUALA LUMPUR    ,address
+599.45    ,total
+599.45    ,total
+ZAWIAJAYA FOOD N BEVERAGE SDN BHD    ,company
+106-107  LEVEL 1 THE MINES MALL SERDANG    ,address
+SRI KEMBANGAN  43300    ,address
+SELANGOR DARUL EHSAN.    ,address
+48.15    ,total
+21-03-2018    ,date
+LIM SENG THO HARDWARE TRADING    ,company
+NO 7. SIMPANG OFF BATU VILLAGE.    ,address
+JALAN IPOH BATU 5. 51200 KUALA LUMPUR    ,address
+MALAYSIA    ,address
+03/02/2018 15:28    ,date
+7.00    ,total
+7.00    ,total
+7.00    ,total
+7.00    ,total
+LIM SENG THO HARDWARE TRADING    ,company
+NO 7. SIMPANG OFF BATU VILLAGE.    ,address
+JALAN IPOH BATU 5. 51200 KUALA LUMPUR    ,address
+MALAYSIA    ,address
+09/02/2018 11:40    ,date
+7.00    ,total
+7.00    ,total
+7.00    ,total
+7.00    ,total
+LIM SENG THO HARDWARE TRADING    ,company
+NO 7. SIMPANG OFF BATU VILLAGE.    ,address
+JALAN IPOH BATU 5. 51200 KUALA LUMPUR    ,address
+MALAYSIA    ,address
+29/12/2017 11:41    ,date
+6.00    ,total
+6.00    ,total
+6.00    ,total
+6.00    ,total
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290  JALAN AIR PANAS     ,address
+SETAPAK     ,address
+53200  KUALA LUMPUR    ,address
+28/12/2017    ,date
+465.34    ,total
+465.34    ,total
+465.34    ,total
+SOLARIS    ,address
+DUTAMAS    ,address
+SUN VICTORY SDN BHD    ,company
+LEVEL G2  BLOCK D1.    ,address
+SOLARIS DUTAMAS.    ,address
+50480 KUALA LUMPUR.    ,address
+14/01/2018 (SUN) 12:06    ,date
+14/01/2018 (SUN) 13:51    ,date
+RM4.00    ,total
+RM4.00    ,total
+RM4.00    ,total
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290  JALAN AIR PANAS     ,address
+SETAPAK     ,address
+53200  KUALA LUMPUR    ,address
+93.07    ,total
+93.07    ,total
+93.07    ,total
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290  JALAN AIR PANAS     ,address
+SETAPAK     ,address
+53200  KUALA LUMPUR    ,address
+44.73    ,total
+44.73    ,total
+44.73    ,total
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290  JALAN AIR PANAS     ,address
+SETAPAK     ,address
+53200  KUALA LUMPUR    ,address
+23.32    ,total
+23.32    ,total
+23.32    ,total
+23.32    ,total
+23.32    ,total
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290  JALAN AIR PANAS     ,address
+SETAPAK     ,address
+53200  KUALA LUMPUR    ,address
+116.28    ,total
+116.28    ,total
+116.28    ,total
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290  JALAN AIR PANAS     ,address
+SETAPAK     ,address
+53200  KUALA LUMPUR    ,address
+94.87    ,total
+94.87    ,total
+94.87    ,total
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290  JALAN AIR PANAS     ,address
+SETAPAK     ,address
+53200  KUALA LUMPUR    ,address
+13.25    ,total
+13.25    ,total
+13.25    ,total
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290  JALAN AIR PANAS     ,address
+SETAPAK     ,address
+53200  KUALA LUMPUR    ,address
+2.12    ,total
+2.12    ,total
+2.12    ,total
+2.12    ,total
+2.12    ,total
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290  JALAN AIR PANAS     ,address
+SETAPAK     ,address
+53200  KUALA LUMPUR    ,address
+6.36    ,total
+6.36    ,total
+6.36    ,total
+6.36    ,total
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290  JALAN AIR PANAS     ,address
+SETAPAK     ,address
+53200  KUALA LUMPUR    ,address
+21.20    ,total
+21.20    ,total
+21.20    ,total
+21.20    ,total
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290  JALAN AIR PANAS     ,address
+SETAPAK     ,address
+53200  KUALA LUMPUR    ,address
+12.72    ,total
+12.72    ,total
+12.72    ,total
+12.72    ,total
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290  JALAN AIR PANAS.    ,address
+53200  KUALA LUMPUR.    ,address
+02/01/2018    ,date
+39.75    ,total
+39.75    ,total
+39.75    ,total
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290. JALAN AIR PANAS.    ,address
+5.30    ,total
+5.30    ,total
+5.30    ,total
+5.30    ,total
+5.30    ,total
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290. JALAN AIR PANAS.    ,address
+270.30    ,total
+270.30    ,total
+270.30    ,total
+270.30    ,total
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290  JALAN AIR PANAS     ,address
+SETAPAK     ,address
+53200  KUALA LUMPUR.    ,address
+60.95    ,total
+60.95    ,total
+60.95    ,total
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290  JALAN AIR PANAS     ,address
+53200  KUALA LUMPUR     ,address
+7.95    ,total
+7.95    ,total
+7.95    ,total
+7.95    ,total
+7.95    ,total
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290  JALAN AIR PANAS.    ,address
+SETAPAK     ,address
+53200  KUALA LUMPUR.    ,address
+82.68    ,total
+82.68    ,total
+82.68    ,total
+SYARIKAT PERNIAGAAN GIN KEE    ,company
+NO 290. JALAN AIR PANAS.    ,address
+53200  KUALA LUMPUR.    ,address
+74.20    ,total
+74.20    ,total
+74.20    ,total
+BEYOND BROTHERS HARDWARE    ,company
+LOT 1-0-2  JLN 1/50.    ,address
+DIAMOND SQUARE.    ,address
+OFF JLN GOMBAK    ,address
+53000 KUALA LUMPUR    ,address
+63.60    ,total
+63.60    ,total
+63.60    ,total
+RESTORAN IBRAHIM MAJU SB    ,company
+NO.2  GROUND FLOOR  JALAN REKO SENTRAL 8    ,address
+TAMAN REKO SENTRAL  43000 KAJANG    ,address
+SELANGOR DE    ,address
+5.30    ,total
+5.30    ,total
+19/03/2018 03:44:03 PM    ,date
+FARMASI MALURI S/B (587969-U)    ,company
+23  JIN BURUNG JENTAYU  TMN BUKIT    ,address
+MALURI  KEPONG  52100 KL.    ,address
+02/03/18 05:16 PM    ,date
+79.35    ,total
+79.35    ,total
+ASO ELECTRICAL TRADING SDN BHD    ,company
+NO 31G  JALAN SEPADU C 25/C     ,address
+SECTION 25  TAMAN INDUSTRIES     ,address
+AXIS 40400 SHAH ALAM  SELANGOR.    ,address
+248.05    ,total
+248.05    ,total
+TRI SHAAS SDN BHD (728515-M)    ,company
+4-20  JALAN RIA 25/62 TAMAN SRI MUDA    ,address
+SEKSYEN 25  40400 SHAH ALAM SELANGOR    ,address
+21.40    ,total
+21.40    ,total
+ASO ELECTRICAL TRADING SDN BHD    ,company
+NO 31G  JALAN SEPADU C 25/C.    ,address
+SECTION 25  TAMAN IDUSTRIES.    ,address
+AXIS 40400 SHAH ALAM  SELANGOR    ,address
+99.00    ,total
+99.00    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+6.00    ,total
+6.00    ,total
+6.00    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+9.10    ,total
+9.10    ,total
+9.10    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+4.80    ,total
+4.80    ,total
+4.80    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+6.70    ,total
+6.70    ,total
+6.70    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+9.60    ,total
+9.60    ,total
+9.60    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+7.00    ,total
+7.00    ,total
+7.00    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+2.30    ,total
+2.30    ,total
+2.30    ,total
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+6.00    ,total
+6.00    ,total
+6.00    ,total
+GERBANG ALAF RESTAURANTS SDN BHD    ,company
+LEVEL 6  BANGUNAN TH  DAMANSARA UPTOWN3    ,address
+NO.3  JALAN SS21/39  47400 PETALING JAYA    ,address
+SELANGOR    ,address
+25.40    ,total
+25.40    ,total
+GERBANG ALAF RESTAURANTS SDN BHD    ,company
+LEVEL 6  BANGUNAN TH  DAMANSARA UPTOWN3    ,address
+NO.3  JALAN SS21/39  47400 PETALING JAYA    ,address
+8.50    ,total
+8.50    ,total
+PAPPARICH BMC    ,company
+JALAN TEMENGGUNG 23/9    ,address
+BANDAR MAHKOTA CHERAS    ,address
+43200 SELANGOR DARUL EHSAN  MALAYSIA    ,address
+24 MAR 18 09:12:41 PM    ,date
+72.93    ,total
+MIZU MENTAI SDN. BHD. (1248446-V)    ,company
+NO: 1-1&2 GROUND FLOOR     ,address
+JLN TEMENGGUNG 13/9     ,address
+43200 CHERAS SELANGOR.    ,address
+65.55    ,total
+31-03-2018    ,date
+65.55    ,total
+GERBANG ALAF RESTAURANTS SDN BHD    ,company
+LEVEL 6  BANGUNAN TH  DAMANSARA UPTOWN3    ,address
+NO.3  JALAN SS21/39  47400 PETALING JAYA    ,address
+SELANGOR    ,address
+13.10    ,total
+13.10    ,total
+HAPPY SNACKS ENTYERPRISE    ,company
+19 & 19A  JALAN MERANTI 2A  SEKSYEI    ,address
+BANDAR BARU BATANG KALI  44300    ,address
+26.82    ,total
+26.82    ,total
+SWC ENTERORISE SDN BHD    ,company
+5-7  JALAN MAHAGONI 7/1    ,address
+SEKSYEN 4  BANDAR UTAMA  44300    ,address
+BATANG KALI  SELANGOR    ,address
+28/03/2018    ,date
+30.00    ,total
+30.00    ,total
+28/03/2018    ,date
+L TWO FLORIST & HANDICRAFT    ,company
+NO.49  JALAN MAHAGONI 7/2     ,address
+SEKSYEN 4 BANDAR UTAMA     ,address
+44300 BATANG KALI  SELANGOR.    ,address
+9.00    ,total
+9.00    ,total
+21/03/2018    ,date
+WATSON'S PERSONAL CARE STORES SDN BHD    ,company
+USJ SUMMIT  SUBANG (SS)    ,address
+RM41.45    ,total
+25032018    ,date
+POPULAR BOOL    ,company
+CO. (M) SDN BHD    ,company
+NO 8  JALAN 7/1188  BESA TAN RAZAK    ,address
+56000 KUALA LUMPUR  MALAYSIA    ,address
+KSL CITY    ,address
+06/02/18    ,date
+14.65    ,total
+KHE ELECTRICAL TRADING    ,company
+33-G JALAN MAJO 3/1    ,address
+TAMAN LEMBAH MAJU    ,address
+CHERAS  56100 KL    ,address
+101.75    ,total
+101.75    ,total
+LEVEL 6  BANGUNAN TH  DAMANSARA UPTOWN3    ,address
+NO.3  JALAN SS21/39   47400 PETALING JAYA    ,address
+SELANGOR    ,address
+28.50    ,total
+28.50    ,total
+TK DIVISION KITCHEN SDN BHD    ,company
+53100 SETAPAK  KUALA LUMPUR    ,address
+RM 29.70    ,total
+RM 0.00    ,total
+RM 29.70    ,total
+RM 0.00    ,total
+RM 29.70    ,total
+RM 30.00    ,total
+RM 0.30    ,total
+GOLDEN SCOOP SDN BHD (169609-A)    ,company
+CITY  NO1  MEDAN SYED PUTRA UTARA KUALA    ,address
+LUMPUR    ,address
+MALAYSIA    ,address
+21.50    ,total
+21.50    ,total
+99 SPEED MART S/B (519537-X)    ,company
+LOT P. T. 2811  JALAN ANGSA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1934-LAMAN RIMBUNAN    ,address
+03-02-18    ,date
+3.70    ,total
+FUN N CHEER (MALURI)    ,company
+LOT 37636   JALAN 6/37A      ,address
+TAMAN BUKIT MALURI      ,address
+52100 KUALA LUMPUR    ,address
+05/01/2018    ,date
+29.80    ,total
+29.80    ,total
+TEALIVE    ,company
+CT281 - TEALIVE SHELL KEPONG    ,company
+OTTOGO ENTERPRISE    ,company
+SHELL STATION PT15944  MUKIM    ,address
+BATU     ,address
+JLN BESAR KEPONG    ,address
+21/01/2018    ,date
+RM8.60    ,total
+RM8.60    ,total
+NADEJE PRESTIGE SDN BHD    ,company
+LOT NO . : G1 . 116A   GROUND FLOOR      ,address
+SUNWAY PYRAMID   NO . 3   JALAN PJS 11/15      ,address
+BANDAR SUNWAY   47500 PETALING JAYA .    ,address
+RM39.00    ,total
+99 SPEED MART S/B (519537-X)    ,company
+LOT P. T. 2811  JALAN ANGASA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1181-TMN SRI SINAR    ,address
+17-02-18    ,date
+213.00    ,total
+213.00    ,total
+99 SPEED MART S/B (519537-X)    ,company
+LOT P. T. 2811  JALAN ANGSA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1362-JLN DEVELOPMENT    ,address
+17-02-18    ,date
+108.50    ,total
+SUNFISH    ,company
+22 LRG PERUSAHAAN 4    ,address
+KIMPAL INDS.PARK B . CAVES    ,address
+28.70    ,total
+MR . DAKGALBI SOLARIS    ,company
+480 KL    ,address
+71.00 (S)    ,total
+71.00    ,total
+71.00    ,total
+71.00    ,total
+THE STORE (MALAYSIA) SDN BHD (8199K)    ,company
+LOT 34817 JALAN BATU AMBAR    ,address
+TAMAN KOK LIAN    ,address
+51200 KUALA LUMPUR     ,address
+14-01-2018 (SUN) 16:02    ,date
+35.80    ,total
+35.80    ,total
+LITTLE CRAVINGS SDN BHD (562007-D)    ,company
+HQ: 7  JLN SS21/34  47400 PJ    ,address
+18-03-2018 11 : 23    ,date
+RM53.60    ,total
+KING'S CONFECTIONERY S/B 273500-U (KSB)    ,company
+NO.41  JALAN SERI BINTANG 2    ,address
+TAMAN SRI BINTANG     ,address
+52100 KUALA LUMPUR.    ,address
+25.15    ,total
+25.15    ,total
+25.15    ,total
+YAM FRESH    ,company
+NO. 145G  JALAN RIMBUNAN RAYA 1     ,address
+LAMAN RIMBUNAN KEPONG     ,address
+52100 KUALA LUMPUR    ,address
+1    ,address
+1    ,address
+1    ,address
+RM29.30    ,total
+ZEN AND COFFEE 28 S/B    ,company
+NO 53  JALAN 3/62A     ,address
+BANDAR MENJALARA     ,address
+52200 KUALA LUMPUR.    ,address
+105.00    ,total
+105.00    ,total
+105.00    ,total
+GUARDIAN HEALTH AND BEAUTY SDN BHD    ,address
+GUARDIAN GIANT BREM MALL    ,address
+G-19 LEVEL G    ,address
+BREM MALL    ,address
+12.00    ,total
+12.00    ,total
+12.00    ,total
+GUARDIAN BRAND PRODUCTS MUST BE MADE    ,address
+04/03/18    ,date
+MR. D. I. Y. (KUCHAI) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6      ,address
+KAWASAN PERINDUSTRIAN BALAKONG      ,address
+43300 SERI KEMBANGAN   SELANGOR    ,address
+16-03-18    ,date
+D-08  M AVENUE   JLN 1 / 38A    ,address
+SEGAMBUT BAHAGIA    ,address
+51200 KUALA LUMPUR    ,address
+1    ,address
+1    ,address
+60.60    ,total
+1 - 300 - 888 - 333    ,address
+DOMMAL FOOD SERVICES SDN BHD    ,company
+1    ,address
+MY HAPPY PHARMACY PLT    ,company
+NO 12 GF  JALAN MAMANDA 5.    ,address
+TAMAN DATO AHMAD RAZALI  JALAN AMPANG     ,address
+68000 AMPANG  SELANGOR.    ,address
+20.50    ,total
+20.50    ,total
+20.50    ,total
+20.50    ,total
+POPULAR BOOK    ,company
+CO. (M) SDN BHD    ,company
+NO 8  JALAN 7/118B  DESA TUN RAZAK    ,address
+56000 KUALA LUMPUR  MALAYSIA    ,address
+AMPANG POINT CENTRE    ,address
+11/02/18 19 : 21    ,date
+11.80    ,total
+KEDAI PAPAN YEW CHUAN    ,company
+LOT 276 JALAN BANTING    ,address
+43800 DENGKIL  SELANGOR.    ,address
+DENGKIL SELANGOR    ,address
+101.76    ,total
+101.76    ,total
+101.76    ,total
+KEDAI PAPAN YEW CHUAN    ,company
+LOT 276 JALAN BANTING    ,address
+43800 DENGKIL  SELANGOR.    ,address
+DENGKIL SELANGOR    ,address
+127.20    ,total
+127.20    ,total
+127.20    ,total
+KEDAI PAPAN YEW CHUAN    ,company
+LOT 276 JALAN BANTING    ,address
+43800 DENGKIL  SELANGOR.    ,address
+DENGKIL SELANGOR    ,address
+174.90    ,total
+174.90    ,total
+174.90    ,total
+174.90    ,total
+KEDAI PAPAN YEW CHUAN    ,company
+LOT 276 JALAN BANTING    ,address
+43800 DENGKIL  SELANGOR.    ,address
+DENGKIL SELANGOR    ,address
+174.90    ,total
+174.90    ,total
+174.90    ,total
+BHPETROL SUBANG AIRPORT    ,company
+JALAN LAPANGAN TERBANG SUBANG    ,address
+47200 SUBANG    ,address
+SELANGOR    ,address
+18-01-2018 15:44:46    ,date
+41.95 S    ,total
+41.95    ,total
+41.95    ,total
+41.95    ,total
+BHPETROL PALEKBANG    ,company
+LOT 1626  MUKIM KAMPUNG LAUT    ,address
+TUMPAT    ,address
+16200 PALEKBANG  KELANTAN    ,address
+24-03-2018 22:02:55    ,date
+6.00    ,total
+6.00    ,total
+BILLION SIX ENTERPRISE    ,company
+NO 3  JALAN TAMAN JAS'A 2;    ,address
+SECTION U6  40150 SHAH ALAM.    ,address
+63.80    ,total
+63.80    ,total
+63.80    ,total
+63.80    ,total
+SLF CASH & CARRY    ,company
+NO. 15.JLN TSJ2.TMN SUBANG JASA.    ,address
+OFF JLN BT 3 SUBANG.    ,address
+40000 SHAH ALAM. SEL.    ,address
+CASH    ,company
+21.20    ,total
+21.20    ,total
+21.20    ,total
+21.20    ,total
+CASH :    ,company
+SLF CASH & CARRY    ,company
+NO.15 JLN TSJ2 TMN SUBANG JASA     ,address
+OFF JLN BT 3 SUBANG     ,address
+40000 SHAH ALAM  SEL.    ,address
+CASH    ,company
+48.00    ,total
+CASH    ,company
+48.00    ,total
+SUPER SEVEN CASH & CARRY SDN BHD    ,company
+NO. 1 JALAN EURO 1    ,address
+OFF JALAN BATU TIGA    ,address
+SUNGAI BULOH SEKSYEN U3 SHAH ALAM  40150    ,address
+12-02-2018    ,date
+RM367.10    ,total
+RM367.10    ,total
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 2811  JALAN ANGSA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+07-02-18    ,date
+45.35    ,total
+45.35    ,total
+URBAN IDEA SDN BHD (417940-M)     ,company
+A-G-06  DATARAN GLOMAC     ,address
+JALAN SS6/5A  PUSAT BANDAR KELANA JAYA     ,address
+47301 PETALING JAYA  SELANGOR  MALAYSIA    ,address
+RM22.65    ,total
+KMF FOODICIOUS SDN BHD (1132106-H)    ,company
+NO. 9-G  JALAN PERUBATAN 2     ,address
+PANDAN INDAH  55100 KUALA LUMPUR.    ,address
+2 X    ,address
+31.00    ,total
+09-04-2018    ,date
+31.00    ,total
+YONG CEN ENTERPRISE    ,company
+9  JALAN SUBANG JASA 3     ,address
+40150 SHAH ALAM  SELANGOR.    ,address
+63.35    ,total
+63.35    ,total
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINOUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+02-03-18 17:23    ,date
+ENW HARDWARE CENTRE (M) SDN. BHD.    ,company
+NO: G3  BLK G  JLN PJU 1A/3     ,address
+ARA DAMANSARA  47301    ,address
+PETALING JAYA  SELANGOR DARUL EHSAN.    ,address
+10/03/2018    ,date
+34.00    ,total
+34.00    ,total
+ENW HARDWARE CENTRE (M) SDN. BHD.    ,company
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG      ,address
+43300 SERI KEMBANGAN   SELANGOR    ,address
+38.80    ,total
+POPULAR BOOK    ,company
+CO. (M) SDN BHD    ,company
+NO 8  JALAN 7/118B  DESA TUN RAZAK    ,address
+56000 KUALA LUMPUR   MALAYSIA    ,address
+01/03/18 12:36    ,date
+4.00    ,total
+AEON CO. (M) BHD. (126926-H)    ,address
+3RD FLR  AEON TAMAN MALURI SC    ,address
+JLN JEJAKA  TAMAN MALURI    ,address
+CHERAS  55100 KUALA LUMPUR    ,address
+88.95    ,total
+28/02/2018 20:11    ,date
+AEON BANDAR PUCHONG    ,address
+AEON CO. (M) BHD (126926-H)    ,address
+3RD FLR  AEON TAMAN MALURI SC    ,address
+JLN JEJAKA  TAMAN MALURI    ,address
+CHERAS  55100 KUALA LUMPUR    ,address
+31.00    ,total
+31.00    ,total
+31.00    ,total
+09/03/2018 18:54    ,date
+AEON BANDAR PUCHONG    ,address
+POPULAR BOOK    ,company
+CO. (M) SDN BHD    ,company
+NO 8  JALAN 7/118B  DESA TUN RAZAK    ,address
+56000 KUALA LUMPUR  MALAYSI .    ,address
+11/03/18 16:30    ,date
+5.75    ,total
+5.75    ,total
+AEON CO. (M) BHD (126926-H)    ,address
+3RD FLR  AEON TAMAN MALURI SC    ,address
+JLN JEJAKA  TAMAN MALURI    ,address
+CHERAS  55100 KUALA LUMPUR    ,address
+42.50    ,total
+12/03/2018 13:07    ,date
+AEON BANDAR PUCHGNG    ,address
+MR. D.I.Y. (KUCHAI) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG      ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+45.00    ,total
+12-03-18 14:37 SH02 B011    ,date
+TSH POWER HARDWARE    ,company
+TRADING    ,company
+13-1  JALAN PJU 5/10     ,address
+DATARAN SUNWAY  KOTA DAMANSARA     ,address
+47810  PETALING JAYA  SELANGOR    ,address
+8.00 SR*    ,total
+8.00    ,total
+8.00    ,total
+8.00    ,total
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+17-03-18 14:49 SHO1 ZJ86    ,date
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6      ,address
+KAWASAN PERINDUSTRIAN BALAKONG      ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+10.60    ,total
+18-03-18 15:12 SH01 ZJ86    ,date
+DAISO JAPAN  IOI MALL    ,address
+20/03/2018 7:07PM RCPT NO.18252    ,date
+35.40    ,total
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+26-03-18 15:25 SHO1 ZJ86    ,date
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6      ,address
+KAWASAN PERINDUSTRIAN BALAKONG      ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+25-03-18 18:47 SHO1 ZJ86    ,date
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG      ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+23-03-18 18:09 SH01 ZJ86    ,date
+GOLDEN KEY MAKER    ,company
+NO 5  JALAN KENARI 2     ,address
+BANDAR PUCHONG JAYA     ,address
+47100 PUCHONG  SELANGOR    ,address
+24-MAR-2018 03:44:22 PM    ,date
+2 NORMAL KEY LONG    ,address
+21.00    ,total
+21.00    ,total
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG      ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+24-03-18 18:02 SHO1 ZJ86    ,date
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+24-03-18 18:10 SH01 ZJ86    ,date
+ELITETRAX MARKETING SDN BHD (616227-D)    ,company
+LOT 1F-01&02 1ST FLR PARADIGM MALL     ,address
+NO. 1 JALAN SS 7/26A     ,address
+KELANA JAYA     ,address
+47301 PETALING JAYA    ,address
+60.00 S6    ,total
+60.00    ,total
+60.00    ,total
+60.00    ,total
+11.02.18 14:08    ,date
+KAISON FURNISHING SDN BHD    ,company
+L4-17 (B)  LEVEL 4     ,address
+UP2-01  MELAWATI MALL     ,address
+355  JALAN BANDAR MELAWATI     ,address
+PUSAT BANDAR MELAWATI     ,address
+53100 KUALA LUMPUR.    ,address
+29-01-18 20:38    ,date
+LEE WAH FLORIST SDN BHD    ,address
+129  JALAN TUN H.S LEE     ,address
+50000 KUALA LUMPUR.    ,address
+374.20    ,total
+ADVANCO COMPANY    ,company
+COMPANY REG. NO. : 725186-V    ,company
+NO 1&3  JALAN WANGSA DELIMA 12     ,address
+WANGSA LINK  WANGSA MAJU     ,address
+53300 KUALA LUMPUR    ,address
+17/01/2018 8:08:53    ,date
+29.00    ,total
+29.00    ,total
+29.00    ,total
+29.00    ,total
+29.00    ,total
+29.00    ,total
+ADVANCO COMPANY    ,company
+COMPANY REG. NO. : 725186-V    ,company
+NO 1&3  JALAN WANGSA DELIMA 12     ,address
+WANGSA LINK  WANGSA MAJU     ,address
+53300 KUALA LUMPUR    ,address
+28/02/2018 6:02:25    ,date
+10.45    ,total
+SINNATHAMBY HOLDINGS    ,company
+SDN. BHD.    ,company
+NO.17  18 & 41  JALAN BESAR     ,address
+39100 BRINCHANG     ,address
+CAMERON HIGHLANDS     ,address
+PAHANG    ,address
+13.50    ,total
+13.50    ,total
+13.50    ,total
+13.50    ,total
+13.50    ,total
+SINNATHAMBY HOLDINGS SDN. BHD. (249336-T)    ,company
+NO.17 18 & 41 JALAN BESAR     ,address
+39100 BRINCHANG     ,address
+CAMERON HIGHLANDS     ,address
+PAHANG    ,address
+109.70    ,total
+109.70    ,total
+109.70    ,total
+ADVANCO COMPANY    ,company
+COMPANY REG. NO. : 725186-V    ,company
+NO 1&3  JALAN WANGSA DELIMA 12     ,address
+WANGSA LINK  WANGSA MAJU     ,address
+53300 KUALA LUMPUR    ,address
+17/01/2018 4:21:53    ,date
+7.00    ,total
+7.00    ,total
+7.00    ,total
+7.00    ,total
+IKANO HANDEL SDN BHD    ,company
+NO 2A JALAN COCHRANE    ,address
+TAMAN MALURI    ,address
+55100 KUALA LUMPUR    ,address
+22.00    ,total
+22.00    ,total
+22.00    ,total
+22.00    ,total
+TRENDYMAX (M) SDN. BHD.    ,company
+P6  BLOCK C  GM KLANG WHOLESALE CITY     ,address
+JALAN KASUARINA 1     ,address
+41200 KLANG  SELANGOR D.E.    ,address
+15/01/2018 1:48:36 PM    ,date
+1    ,address
+1    ,address
+329.10    ,total
+329.10    ,total
+329.10    ,total
+329.10    ,total
+329.10    ,total
+PRINT EXPERT SDN BHD    ,company
+NO 18  20  22  JALAN BUNGA TANJONG 2/16     ,address
+40000 SHAH ALAM  SELANGOR    ,address
+12/01/2018    ,date
+100.00    ,total
+PRINT EXPERT SDN BHD    ,company
+NO 18  20  22  JALAN BUNGA TANJONG 2/16     ,address
+40000 SHAH ALAM  SELANGOR    ,address
+12/01/2018    ,date
+4.25    ,total
+POPULAR BOOK    ,company
+CO. (M) SDN BHD    ,company
+NO 8  JALAN 7/118B  DESA TUN RAZAK    ,address
+56000 KUALA LUMPUR  MALAYSIA    ,address
+24/01/18 16:14    ,date
+NO PLASTIC BAG CAMPAI    ,address
+30.10    ,total
+POPULAR BOOK    ,company
+CO. (M) SDN BHD    ,company
+NO 8  JALAN 7/118B  DESA TUN RAZAK    ,address
+56000 KUALA LUMPUR  MALAYSIA    ,address
+27/02/18 21:22    ,date
+41.00    ,total
+POPULAR BOOK    ,company
+CO. (M) SDN BHD    ,company
+NO 8  JALAN 7/118B  DESA TUN RAZAK    ,address
+56000 KUALA LUMPUR  MALAYSIA    ,address
+05/03/18 15:02    ,date
+9.90    ,total
+BOON SENG PAPER SDN BHD (1248717-W)    ,company
+12  JALAN BUNGA TANJUNG     ,address
+2/16 SEKSYEN 2     ,address
+40000 SHAH ALAM  SELANGOR    ,address
+12    ,address
+31.80    ,total
+31.80    ,total
+31.80    ,total
+12    ,address
+19/03/2018 1:01:43 PM    ,date
+RELAIS TOTAL OULMES    ,company
+AUTOROUTE RABAT MEKNES    ,address
+15000 KHEMISSET    ,address
+TOTAL    ,company
+TOTAL FACTURE : 56.00 DH    ,company
+56.00 DH    ,total
+TONYMOLY VIVA CITY    ,company
+UNIT L1-044B  VIVACITY MEGAMALL     ,address
+JALAN WAN ALWI     ,address
+93350 KUCHING  SARAWAK.    ,address
+100.60    ,total
+100.60    ,total
+TONYMOLY VIVA CITY    ,company
+UNIT L1-044B  VIVACITY MEGAMALL     ,address
+JALAN WAN ALWI     ,address
+93350 KUCHING  SARAWAK.    ,address
+39.90    ,total
+39.90    ,total
+39.90    ,total
+39.90    ,total
+TONYMOLY VIVA CITY    ,company
+UNIT L1-044B  VIVACITY MEGAMALL     ,address
+JALAN WAN ALWI     ,address
+93350 KUCHING  SARAWAK.    ,address
+48.95    ,total
+48.95    ,total
+ANZEL ADVERTISING (M) SDN BHD (759765-H)    ,company
+UNIT G-5B  GROUND FLOOR  WISMA UOA II     ,address
+NO 21  JALAN PINANG     ,address
+50450 KUALA LUMPUR  MALAYSIA    ,address
+7.40    ,total
+21/03/2018 09:13:31    ,date
+ANZEL ADVERTISING (M) SDN BHD (759765-H)    ,company
+UNIT G-5B  GROUND FLOOR  WISMA UOA II     ,address
+NO 21  JALAN PINANG     ,address
+50450 KUALA LUMPUR  MALAYSIA    ,address
+8.50    ,total
+27/03/2018 16:54:04    ,date
+MR. D.I.Y. (KUCHAI) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+15-03-18 15:41 SH01 B019    ,date
+PREMIO    ,company
+PREMIO STATIONERY SDN BHD    ,company
+F-G-01 JALAN SS 6/5B    ,address
+DATARAN GLOMAC. KELANA JAYA    ,address
+47301 PETALING JAYA. SELANGOR    ,address
+25.45    ,total
+Y SOON FATT S/B (81497-P)    ,company
+LOT 1504  BATU 8 1/2  JALAN KLANG LAMA     ,address
+46000 PETALING JAYA  SELANGOR.    ,address
+362.50    ,total
+362.50    ,total
+9/2/2017 12:00 PM    ,date
+BEMED (SP) SDN. BHD.    ,company
+NO.49  JALAN DINAR G U3/G     ,address
+SUBANG PERDANA     ,address
+40150 SHAH ALAM  SELANGOR D.E.    ,address
+02/JAN/2017 10:49:25    ,date
+165.00    ,total
+165.00    ,total
+165.00    ,total
+165.00    ,total
+B & BEST RESTAURANT    ,company
+NO.12 JALAN SS4C/5 PETALING JAYA    ,address
+SELANGOR DARUL EHSAN    ,address
+7.40    ,total
+7.40    ,total
+B & BEST RESTAURANT    ,company
+14.85    ,total
+14.85    ,total
+B & BEST RESTAURANT    ,company
+NO.12 JALAN SS4C/5 PETALING JAYA    ,address
+SELANGOR DARUL EHSAN    ,address
+7.40    ,total
+7.40    ,total
+OLIVE9 PHARMACY SDN BHD    ,company
+69 JALAN NOVA U5/N  SEKSYEN U5 SUBANG BE    ,address
+12.15    ,total
+SEGI CASH & CARRY SDN. BHD.    ,company
+PT17920 SEK U9  SHAH ALAM    ,address
+06/04/17 11:43AM    ,date
+50.45    ,total
+50.45    ,total
+TANJONGMAS BOOKCENTRE (PJ) SDN BHD    ,company
+LOT F15  GIANT BANDAR PUTERI    ,address
+JALAN PUTERI 1/1  BDR PUTERI    ,address
+47100 PUCHONG  SELANGOR    ,address
+17/03/2017 21:35    ,date
+62.00    ,total
+62.00    ,total
+62.00    ,total
+BEMED (SP) SDN. BHD.    ,company
+NO.49  JALAN DINAR G U3/G     ,address
+SUBANG PERDANA     ,address
+40150 SHAH ALAM  SELANGOR D.E.    ,address
+25/FEB/2017 07:43:54    ,date
+217.00    ,total
+217.00    ,total
+SEGI CASH & CARRY SDN.BHD    ,company
+PT17920  SEKSYEN U9     ,address
+40150 SHAH ALAM     ,address
+SELANGOR DARUL EHSAN.    ,address
+12.60    ,total
+SEGI CASH & CARRY SDN.BHD    ,company
+PT17920  SEKSYEN U9     ,address
+40150 SHAH ALAM     ,address
+SELANGOR DARUL EHSAN.    ,address
+20.05    ,total
+GOLDEN ARCHES RESTAURANTS SDN BHD    ,company
+LEVEL 6  BANGUNAN TH  DAMANSARA UPTOWN3    ,address
+NO.3  JALAN SS21/39 47400 PETALING JAYA    ,address
+SELANGOR    ,address
+29.30    ,total
+MEI LET RESTAURANT    ,company
+NO 2  JALAN BULAN BM U5/BM  SEKSYEN U5     ,address
+40150 SHAH ALAM  SELANGOR    ,address
+NO GST: 0010 9273 4976    ,address
+22/01/2017 09:09:16 PM    ,date
+67.85    ,total
+KING'S CONFECTIONERY S/B 273500-U (GKJ)    ,company
+LOT NO. G23  GIANT KELANA JAYA    ,address
+LOT PT244  JLN PERBANDARAN SS6/4    ,address
+PUSAT BANDAR KELANA JAYA  PETALING    ,address
+7.50    ,total
+7.50 S    ,total
+7.50    ,total
+7.50    ,total
+YONG SOON FATT S/B (81497-P)    ,company
+LOT 1504  BATU 8 1/2  JALAN KLANG LAMA     ,address
+46000 PETALING JAYA  SELANGOR.    ,address
+6/2/2017 12:42 PM    ,date
+758.70    ,total
+758.70    ,total
+AMPANG 210    ,company
+FIRST CITY PARKING SDN BHD    ,company
+A-09-10 PRIMA AVENUE    ,address
+THE TUBE  1/39  DATARAN PRIMA    ,address
+47301 PETALING JAYA    ,address
+SELANGOR DE    ,address
+16/04/2018 (MON)    ,date
+16/04/2018 (MON)    ,date
+PARKING TIME    ,company
+PARKING FEE    ,company
+RM7.00    ,total
+RM7.00    ,total
+RM7.00    ,total
+GL HANDICRAFT & TAII ORING    ,company
+19  JALAN KANCIL     ,address
+OFF JALAN PUDU     ,address
+55100 KUALA LUMPUR    ,address
+MALAYSIA    ,address
+27/03/2018 16:34    ,date
+130.00    ,total
+130.00    ,total
+130.00    ,total
+130.00    ,total
+130.00    ,total
+GL HANDICRAFT & TAII ORING    ,company
+19  JALAN KANCIL     ,address
+OFF JALAN PUDU     ,address
+55100 KUALA LUMPUR    ,address
+MALAYSIA    ,address
+09/04/2018 10:52    ,date
+104.00    ,total
+104.00    ,total
+104.00    ,total
+104.00    ,total
+104.00    ,total
+ARTRANGE STATIONERS & PRINT SDN BHD    ,company
+44 JALAN SS21/58 DAMANSARA UTAMA    ,address
+47400 PETALING JAYA    ,address
+15.40    ,total
+15.40    ,total
+15.40    ,total
+TIMES BOOKSTORES    ,company
+LOT F21 @ 22  CITTA MALL    ,address
+NO 1  JLN PJU 1A/4    ,address
+47301    ,address
+1    ,address
+1    ,address
+1    ,address
+12.37    ,total
+TOKYO KITCHEN (CITTA MALL)    ,company
+TOKYO KITCHEN SDN BHD    ,company
+G-26  GRD FLOOR CITTA MALL     ,address
+NO 1  JALAN PJU     ,address
+1A/4B  JLN PJU 1 ARA DAMANSARA     ,address
+47301 PETALING JAYA.    ,address
+SELANGOR.    ,address
+1 X    ,address
+1 X    ,address
+1 X    ,address
+1 X    ,address
+113.80    ,total
+113.80    ,total
+23-04-2017    ,date
+113.80    ,total
+BEMED (SP) SDN. BHD.    ,company
+NO.49  JALAN DINAR G U3/G     ,address
+SUBANG PERDANA     ,address
+40150 SHAH ALAM  SELANGOR D.E.    ,address
+15/APR/2017 04:56:46    ,date
+635.00    ,total
+635.00    ,total
+635.00    ,total
+YONG CEN ENTERPRISE    ,company
+9  JALAN SUBANG JASA 3     ,address
+40150 SHAH ALAM  SELANGOR.    ,address
+94.00    ,total
+94.00    ,total
+BILLION SIX ENTERPRISE    ,company
+NO 3  JALAN TAMAN JASA 2     ,address
+SECTION U6  40150 SHAH ALAM.    ,address
+12.00    ,total
+12.00    ,total
+12.00    ,total
+12.00    ,total
+AMANO MALAYSIA SDN BHD (682288-V)    ,company
+12 JALAN PENGACARA U1/48    ,address
+TEMASYA INDUSTRIAL PARK    ,address
+40150 SHAH ALAM SELANGOR    ,address
+RM3.00    ,total
+30/04/2017 (SUN) 19:44    ,date
+30/04/2017 (SUN) 23:14    ,date
+RM3.00    ,total
+RM3.00    ,total
+AMANO MALAYSIA SDN BHD (682288-V)    ,company
+12 JALAN PENGACARA U1/48    ,address
+TEMASYA INDUSTRIAL PARK    ,address
+40150 SHAH ALAM SELANGOR    ,address
+RM1.00    ,total
+30/04/2017 (SUN) 20:22    ,date
+30/04/2017 (SUN) 21:51    ,date
+RM1.00    ,total
+RM1.00    ,total
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 2811  JALAN ANGSA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1313-SUBANG BESTARI    ,address
+05-05-17    ,date
+42.35    ,total
+42.35    ,total
+PERNIAGAAN RIANG RIA    ,company
+NO7 JLN UERO SHAH ALAM.    ,address
+22.60    ,total
+10-05-2017    ,date
+BEMED (SP) SDN. BHD.    ,company
+NO.49  JALAN DINAR G U3/G     ,address
+SUBANG PERDANA     ,address
+40150 SHAH ALAM  SELANGOR D.E.    ,address
+14/MAY/2017 02:56:39    ,date
+191.20    ,total
+191.20    ,total
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 2811  JALAN ANGSA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1032-SUBANG PERDANA    ,address
+21-05-17    ,date
+20.80    ,total
+HERO DISTRIBUTION SDN BHD    ,company
+4243 COMPLEKS PERNIAGAAN SRI GAYA     ,address
+JLN TMN SUBANG JASA 3     ,address
+40150 SELANGOR    ,address
+17/05/17    ,date
+41.50    ,total
+41.50    ,total
+SEGI CASH & CARRY SDN. BHD.    ,company
+PT17920 SEK U9  SHAH ALAM    ,address
+118.35    ,total
+118.35    ,total
+BROADVIEW MARKETING SDN BHD(728384-M)    ,company
+NO. 9-G  JALAN DINAR D U3/D    ,address
+TAMAN SUBANG PERDANA  SEK U3     ,address
+40150 SHAH ALAM SELANGOR D.E.    ,address
+15/05/2017 10:49:40 AM    ,date
+4.70    ,total
+4.70    ,total
+4.70    ,total
+4.70    ,total
+4.70    ,total
+RESTORAN WAN SHENG    ,company
+NO. 2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+62.80    ,total
+62.80    ,total
+62.80    ,total
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 2811  JALAN ANGSA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1214-JINJANG UTARA    ,address
+22-11-17    ,date
+182.00    ,total
+182.00    ,total
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 2811  JALAN ANGSA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1214-JINJANG UTARA    ,address
+01-11-17    ,date
+52.10    ,total
+IN-SPARKLE TRADING SDN BHD    ,company
+NO.LOT 24  BATU 11 KAMPUNG DATO     ,address
+UJANG BALAKONG  43200 CHERAS  SEL.    ,address
+250.00    ,total
+250.00 S    ,total
+ELKEN    ,company
+SERVICE    ,company
+ELKEN SERVICE SDN BHD (310184-X)    ,company
+NO 2-1 JALAN 3/137B BATU 5    ,address
+JALAN KELANG LAMA 58000 KUALA LUMPUR    ,address
+250.00    ,total
+250.00    ,total
+250.00    ,total
+250.00    ,total
+FIVE STAR CASH & CARRY    ,company
+G.23 & G.22  PLAZA SERI SETIA     ,address
+NO.1 JALAN SS 9/1  47300 PJ  SELANGOR     ,address
+19/06/17 11:43    ,date
+45.00 S    ,total
+45.00    ,total
+CASH :    ,company
+45.00    ,total
+BROADVIEW MARKETING SDN BHD(728384-M)    ,company
+NO. 9-G  JALAN DINAR D U3/D    ,address
+TAMAN SUBANG PERDANA  SEK U3     ,address
+40150 SHAH ALAM SELANGOR D.E.    ,address
+03/06/2017 5:02:54 PM    ,date
+18.00    ,total
+18.00    ,total
+18.00    ,total
+18.00    ,total
+18.00    ,total
+BEMED (SP) SDN. BHD.    ,company
+NO.49  JALAN DINAR G U3/G     ,address
+SUBANG PERDANA     ,address
+40150 SHAH ALAM  SELANGOR D.E.    ,address
+14/JUN/2017 08:34:22    ,date
+165.00    ,total
+165.00    ,total
+165.00    ,total
+165.00    ,total
+165.00    ,total
+SUPER.SEVEN CASH & CARRY SDN BHD    ,company
+NO. 1 JALAN EURO 1    ,address
+OFF JALAN BATU TIGA    ,address
+SUNGAI BULOH SEKSYEN U3 SHAH ALAM 40150    ,address
+22-06-2017    ,date
+RM28.05    ,total
+CASH    ,company
+RM28.05    ,total
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 2811  JALAN ANGSA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1214-JINJANG UTARA    ,address
+10-05-17    ,date
+11.50    ,total
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 2811  JALAN ANGSA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1422-TMN DESA JAYA    ,address
+10-05-17    ,date
+72.75    ,total
+S&Y STATIONERY    ,company
+BANDAR PINGGIRAN SUBANG     ,address
+SEKSYEN U5     ,address
+40150 SHAH ALAM  SELANGOR.    ,address
+05-JAN-2017 03:17:50 PM    ,date
+72.00    ,total
+72.00    ,total
+FIVE STAR CASH & CARRY    ,company
+G.23 & G.22  PLAZA SERI SETIA     ,address
+NO.1 JALAN SS 9/1  47300 PJ  SELANGOR.    ,address
+19/01/17 10:48    ,date
+19.80 S    ,total
+19.80    ,total
+CASH :    ,company
+KING'S CONFECTIONERY S/B 273500-U (KJ1)    ,company
+NO. 20-A1  JALAN SS6/3  KELANA JAYA     ,address
+47301 PETALING JAYA    ,address
+SELANGOR D.E.    ,address
+19.20 S    ,total
+19.20    ,total
+19.20    ,total
+B & BEST RESTAURANT    ,company
+NO.12 JALAN SS4C/5 PETALING JAYA    ,address
+SELANGOR DARUL EHSAN    ,address
+22.25    ,total
+22.25    ,total
+DI HUAN YA RESTAURANT    ,company
+5 JALAN PERMAS 10/5     ,address
+BANDAR BARU PERMAS JAYA     ,address
+81750 JOHOR BAHRU JOHOR    ,address
+07/04/2018 - 18.10:59    ,date
+35.00    ,total
+RESTORAN SIAM VILLAGE    ,company
+PERMAS JAYA 81750 JOHOR BAHRU.    ,address
+275.90    ,total
+275.90    ,total
+275.90    ,total
+275.90    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+02 APR 2018 18:31    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$8.20    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+03 APR 2018 18:33    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$7.10    ,total
+$7.10    ,total
+$7.10    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+09 APR 2018 18:26    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$8.20    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+10 APR 2018 18:21    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$7.60    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+11 APR 2018 18:13    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$8.20    ,total
+HASHA PETROKIOSK    ,company
+LOT PTD 198718 TMN SIERRA P    ,address
+81750 MASAI JOHOR    ,address
+50.00 C    ,total
+50.00    ,total
+50.00    ,total
+50.00    ,total
+BHPETROL PERMAS JAYA 2    ,company
+LOT PTD 101051    ,address
+JALAN PERMAS 10/10    ,address
+10-04-2018 08:11:53    ,date
+50.00    ,total
+50.00    ,total
+LAVENDER CONFECTIONERY & BAKERY S/B    ,company
+LOT G29 & G30  AEON MALL TEBRAU CITY     ,address
+NO. 1  JALAN DESA TEBRAU     ,address
+TAMAN DESA TEBRAU  81100 JOHOR BAHRU.    ,address
+14/04/2018 16:14    ,date
+1    ,address
+1    ,address
+12.30    ,total
+LAVENDER    ,company
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+18 APR 2018 18:34    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$7.00    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+16 APR 2018 18:23    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$8.20    ,total
+SELASIH EKSLUSIF SDN BHD (524101-D)    ,company
+88 JALAN IBRAHIM SULTAN    ,address
+STULANG LAUT    ,address
+80300 JOHOR BAHRU    ,address
+270.00 SR    ,total
+270.00    ,total
+270.00    ,total
+6/4/2018 19:34    ,date
+PASAR MINI JIN SENG    ,company
+379  JALAN PERMAS SATU     ,address
+BANDAR BARU PERMAS JAYA    ,address
+81750 PLENTONG  JOHOR.    ,address
+15/04/18    ,date
+44.90    ,total
+44.90    ,total
+15/04/18 08:53 #003-1565495#    ,date
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+19 APR 2018 18:22    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$9.90    ,total
+DOMINO'S PIZZA    ,company
+DOMINO'S PIZZA PERMAS JAYA    ,company
+NO.12  JALAN PERMAS JAYA 10     ,address
+BANDAR BARU PERMAS JAYA  81750 MASAI    ,address
+JOHOR    ,address
+25.60    ,total
+25.60    ,total
+DOMINO'S PIZZA    ,company
+DOMINO'S PIZZA PERMAS JAYA    ,company
+NO.12  JALAN PERMAS JAYA 10     ,address
+BANDAR BARU PERMAS JAYA  81750 MASAI    ,address
+JOHOR    ,address
+21.60    ,total
+21.60    ,total
+THE COFFEE BEAN    ,company
+& TEA LEAF (M) SDN. BHD.    ,company
+LOT F36  FIRST FLOOR     ,address
+AEON MALL BDR DATO' ONN     ,address
+NO.3 JLN DATO' ONN 3  BDR DATO' ONN    ,address
+81100 JOHOR BAHRU  JOHOR    ,address
+08/04/2018 14:26    ,date
+12.00    ,total
+12.00    ,total
+DE MAXIMUM THAI EXPRESS SDN BHD    ,company
+BLK 2  UNIT G1 & G2  BESTARI TERRACE     ,address
+LOT PTD 182908 & PTD 143216     ,address
+JALAN DANGA  TAMAN NUSA BESTARI  81300    ,address
+UNIT PRICE    ,address
+THAI ICE TEA    ,company
+21.80    ,total
+21.80    ,total
+14/04/2018    ,date
+AEON CO. (M) BHD (126926-H)    ,address
+3RD FLR  AEON TAMAN MALURI SC    ,address
+JLN JEJAKA  TAMAN MALURI    ,address
+CHERAS  55100 KUALA LUMPUR    ,address
+1.75    ,total
+1.75    ,total
+1.75    ,total
+18/04/2018 20:27    ,date
+AEON TAMAN UNIVERSITI    ,address
+AEON CO. (M) BHD (126926-H)    ,address
+3RD FLR  AEON TAMAN MALURI SC    ,address
+JLN JEJAKA  TAMAN MALURI    ,address
+CHERAS  55100 KUALA LUMPUR    ,address
+10.20    ,total
+10.20    ,total
+10.20    ,total
+10.20    ,total
+22/04/2018 19:29    ,date
+AEON PERMAS JAYA    ,address
+AEON CO. (M) BHD (126926-H)    ,address
+3RD FLR  AEON TAMAN MALURI SC    ,address
+JLN JEJAKA  TAMAN MALURI    ,address
+CHERAS  55100 KUALA LUMPUR    ,address
+98.35    ,total
+22/04/2018 19:26    ,date
+AEON PERMAS JAYA    ,address
+DOMINO'S PIZZA    ,address
+DOMINO'S PIZZA TAMAN UNIVERSITI    ,address
+30  JLN KEBUDAYAAN 7  TMN UNIVERSITI    ,address
+81300 SKUDAI  JOHOR    ,address
+30.90    ,total
+DOMINO'S PIZZA    ,address
+DOMINO'S PIZZA TAMAN UNIVERSITI    ,address
+30  JLN KEBUDAYAAN 7  TMN UNIVERSITI    ,address
+81300 SKUDAI  JOHOR    ,address
+39.60    ,total
+YHM AEON TEBRAU CITY    ,company
+S117  SECOND FLOOR     ,address
+AEON TEBRAU CITY     ,address
+1  JALAN DESA TEBRAU     ,address
+TAMAN DESA TEBRAU     ,address
+81100 JOHOR BAHRU  JOHOR.    ,address
+17/04/2018    ,date
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+81.80    ,total
+81.80    ,total
+81.80    ,total
+THE TOAST F&B SDN BHD (965752-T)    ,company
+LOT 2110&2111 JALAN PERMAS UTARA    ,address
+BANDAR BARU PERMAS    ,address
+81750 JOHOR BAHRU JOHOR    ,address
+08/04/2018    ,date
+18.90    ,total
+18.90    ,total
+08/04/2018 03:09:12 PM    ,date
+AEON CO. (M) BHD (126926-H)    ,address
+3RD FLR  AEON TAMAN MALURI SC    ,address
+JLN JEJAKA  TAMAN MALURI    ,address
+CHERAS  55100 KUALA LUMPUR    ,address
+46.55    ,total
+20/04/2018 20:48    ,date
+AEON TAMAN UNIVERSITI    ,address
+AEON CO. (M) BHD (126926-H)    ,address
+3RD FLR  AEON TAMAN MALURI SC    ,address
+JLN JEJAKA  TAMAN MALURI    ,address
+CHERAS  55100 KUALA LUMPUR    ,address
+4.40    ,total
+4.40    ,total
+4.40    ,total
+12/04/2018 18:18    ,date
+AEON TAMAN UNIVERSITI    ,address
+PASARAYA JALAL SDN BHD    ,company
+10-18 JLN KEBUDAYAAN 16 TMN U    ,address
+81300 JOHOR BAHRU.    ,address
+6.40 SR*    ,total
+6.40    ,total
+6.40    ,total
+DOMINO'S PIZZA    ,address
+DOMINO'S PIZZA PERMAS JAYA    ,address
+NO.12  JALAN PERMAS JAYA 10     ,address
+BANDAR BARU PERMAS JAYA  81750 MASAI    ,address
+JOHOR    ,address
+7.20    ,total
+AEON CO. (M) BHD (126926-H)    ,address
+3RD FLR  AEON TAMAN MALURI SC    ,address
+JLN JEJAKA  TAMAN MALURI    ,address
+CHERAS  55100 KUALA LUMPUR    ,address
+122.80    ,total
+01/04/2018 12:53    ,date
+AEON PERMAS JAYA    ,address
+GUARDIAN HEALTH AND BEAUTY SDN BHD    ,company
+JALAN LOKE YEW BENTONG    ,address
+90 GROUND FLOOR    ,address
+JALAN BENTONG    ,address
+38.37    ,total
+38.37    ,total
+GUARDIAN BRAND PRODUCTS MUST BE MADE    ,company
+19/05/18    ,date
+TF VALUE-MART SDN BHD (482123-U)    ,company
+JALAN TRAS BATU 1    ,address
+28700 BENTONG    ,address
+PAHANG DARUL MAKMUR.    ,address
+19/05/18    ,date
+52.80    ,total
+52.80    ,total
+52.80    ,total
+CHECKERS HYPERMARKET SDN BHD    ,company
+(JALAN KLANG LAMA)    ,company
+LOT 2942 & 2945  JLN SERI SENTOSA 8     ,address
+SERI SENTOSA  OFF JLN KLANG LAMA     ,address
+58000 KUALA LUMPUR.    ,address
+20.00    ,total
+20.00    ,total
+BERRY'S CAKE HOUSE    ,company
+NO.1     ,address
+JLN PUTERI 1/6     ,address
+BANDAR PUTERI     ,address
+47100 PUCHONG     ,address
+SELANGOR    ,address
+18/04/2018 5:18:08 P    ,date
+11.25    ,total
+11.25    ,total
+WESTERN EASTERN    ,company
+STATIONERY SDN. BHD    ,company
+42-46  JLN SULTAN AZLAN    ,address
+SHAH 51200 KUALA LUMPUR    ,address
+30-04-2018    ,date
+WESTERN EASTERN    ,company
+ST TIONERY SDN. BHD    ,company
+42-46  JLN SULTAN AZLAN    ,address
+SHAH 51200 KUALA LUMPUR    ,address
+16-04-2018    ,date
+RM5.00    ,total
+RM5.00    ,total
+RM5.00    ,total
+GHEE HIANG    ,company
+GH DISTRIBUTOR & MARKETING SDN BHD    ,company
+95  BEACH ROAD  10300 PENANG.    ,address
+10400 PENANG.    ,address
+25.00 SR    ,total
+25.00    ,total
+25.00    ,total
+MENTAI INITIAL SDN BHD (1206674-T)    ,company
+NO.37-1  PLAZA DANAU DESA 2     ,address
+JALAN 109F  TAMAN DANAU DESA     ,address
+58100 KUALA LUMPUR.    ,address
+2 X    ,address
+41.50    ,total
+41.50    ,total
+THE    ,company
+ROTI    ,company
+MAN    ,company
+BAKERY    ,company
+117  JALAN RADIN BAGUS  SRI PETALING    ,address
+04-05-2018 16:07    ,date
+RM20.40    ,total
+RM20.40    ,total
+HAXINCONE RESOURCES SDN BHD (383322-D)    ,company
+16A  JALAN ASTAKA U8/83  BUKIT JELUTONG    ,address
+40150 SHAH ALAN  SELANGOR D.E.    ,address
+20/04/2018 19:15    ,date
+3.70    ,total
+3.70    ,total
+FAMILYMART    ,company
+NO 16A  JALAN ASTAKA U8/83  BUKIT JELUTONG.    ,address
+40150 SHAH ALAM  SELANGOR  D.E.    ,address
+16/04/2018 16:28    ,date
+18.80    ,total
+18.80    ,total
+R&C VENTURE SDN BHD (1191015-W)    ,company
+LOT-18A-2  BERJAYA TIMES SQUARE     ,address
+KUALA LUMPUR.    ,address
+19-04-2018 13:43:54    ,date
+9.50    ,total
+9.50    ,total
+9.50    ,total
+9.50    ,total
+SUBANG HEALTHCARE SDN    ,address
+B-8  JALAN SS15/4D     ,address
+47500 SUBANG JAYA  SELANGOR    ,address
+28.90    ,total
+28.90    ,total
+BHD    ,company
+DIGI TELECOMMUNICATIONS SDN BHD    ,company
+LOT LG 315  1-UTAMA SHOPPING CENTRE     ,address
+LEBUH BANDAR UTAMA-BANDAR UTAMA     ,address
+PETALING JAYA  47800    ,address
+SELANGOR    ,address
+13/10/2017    ,date
+234.40    ,total
+234.40    ,total
+234.40    ,total
+234.40    ,total
+234.40    ,total
+KHIAM AIK CHAN SDN BHD (88842-H)    ,company
+NO. 76  JALAN SS15/4B     ,address
+47500 SUBANG JAYA  SELANGOR D.E.    ,address
+25/09/2017 01:48:57 PM    ,date
+28.40    ,total
+28.40    ,total
+SUBANG HEALTHCARE SDN    ,address
+B-8  JALAN SS15/4D     ,address
+47500 SUBANG JAYA  SELANGOR    ,address
+11/08/2017    ,date
+78.10    ,total
+78.10    ,total
+BHD    ,company
+GARDENIA BAKERIES (KI ) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+33.05    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+53.14    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+30/07/2017    ,date
+JALAN SS 15/4B     ,address
+3    ,address
+20.21    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+94.19    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+24.83    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+27.10    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+36.36    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+3    ,address
+41.44    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+39.78    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+73.55    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+3    ,address
+50.60    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+7.97    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+68.41    ,total
+MAKASSAR FRESH MARKET S/B.    ,company
+GROUND FLOOR  NO. 4 & 6     ,address
+JALAN SS15/4B     ,address
+47500 SUBANG JAYA  SELANGOR.    ,address
+05-AUG-2017    ,date
+RM40.00    ,total
+RM40.00    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+19.31    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+51.88    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+54.15    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+29.59    ,total
+29.59    ,total
+29.59    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+26.80    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+3    ,address
+-1.73    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+48.04    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+36.55    ,total
+PINGHWAI TRADING SDN BHD    ,company
+NO.2  JALAN METRO PERDANA TIMUR 11     ,address
+KEPONG ENTERPRENUERS PARK     ,address
+OFF JALAN KEPONG     ,address
+52100 KUALA LUMPUR.    ,address
+1 007.50    ,total
+1 007.50    ,total
+1 007.50    ,total
+1 007.50    ,total
+1 100.00    ,total
+1 007.50    ,total
+1 007.50    ,total
+PINGHWAI TRADING SDN BHD    ,company
+NO.2  JALAN METRO PERDANA TIMUR 11     ,address
+KEPONG ENTERPRENUERS PARK     ,address
+OFF JALAN KEPONG     ,address
+52100 KUALA LUMPUR.    ,address
+616.60    ,total
+616.60    ,total
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+22.58    ,total
+GARDENIA BAKERIES (KL) SDN BHD    ,company
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+5.90    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+40.18    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3.21    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+65.50    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+3    ,address
+23.20    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+62.60    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+14.79    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+41.87    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+31.05    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+39.87    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+58.86    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+35.01    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+34.21    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+68.63    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+3    ,address
+110.46    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+3    ,address
+23.56    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+33.80    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+59.54    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+27.20    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+3    ,address
+60.24    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+46.06    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+51.42    ,total
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+31.32    ,total
+3    ,address
+GARDENIA BAKERIES (KL) SDN BHD (139386 X)    ,company
+LOT 3  JALAN PELABUR 23/1     ,address
+40300 SHAH ALAM  SELANGOR.    ,address
+JALAN SS 15/4B     ,address
+54.19    ,total
+3    ,address
+3    ,address
+3    ,address
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851 -A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+RM 8.60    ,total
+RM 20.00    ,total
+RM 11.40    ,total
+06-04-16 11:53 SH01 ZJ08    ,date
+RM 0.49    ,total
+MR. D.I.Y. (KUCHAI) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+RM 3.30    ,total
+RM 3.30    ,total
+17-04-16 14:02 SH01 B019    ,date
+3.30    ,total
+3.30    ,total
+RM 0.19    ,total
+MR. D.I.Y. (KUCHAI) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+RM 22.90    ,total
+RM 23.00    ,total
+RM 0.10    ,total
+17-04-16 14:01 SH01 B019    ,date
+RM 1.30    ,total
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 2811  JALAN ANGSA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1320-TMN BATU    ,address
+14-12-16    ,date
+61.65    ,total
+61.65    ,total
+COSWAY (M) SDN BHD (50118-A)    ,address
+2ND FLOOR  WISMA COSWAY  JALAN RAJA CHULAN     ,address
+50200 KUALA LUMPUR  MALAYSIA.    ,address
+HAI-O RAYA BHD (169199-V)    ,company
+41400 KLANG  SELANGOR    ,address
+47.70    ,total
+47.70    ,total
+47.70    ,total
+47.70    ,total
+GREEN LANE PHARMACY SDN BHD    ,company
+33 JLN BANGAU 1 KEPONG BARU     ,address
+52100 KEPONG KL    ,address
+180.10    ,total
+180.10    ,total
+180.10    ,total
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 2811  JALAN ANGSA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1558-TMN PUSAT KEPONG    ,address
+21-11-16    ,date
+31.80    ,total
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 2811  JALAN ANGSA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1558-TMN PUSAT KEPONG    ,address
+05-12-16    ,date
+15.90    ,total
+GUARDIAN HEALTH AND BEAUTY SDN BHD    ,company
+FIRST WORLD THEME PARK    ,address
+LOT F/L2A.4  LEVEL 2A    ,address
+FIRST WORLD PLAZA  FIRST WORLD    ,address
+2.56    ,total
+2.56    ,total
+GUARDIAN BRAND PRODUCTS MUST BE MADE    ,company
+11/02/16    ,date
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 33198  BATU 4    ,address
+JALAN KAPAR  MUKIM KAPAR    ,address
+42100 KLANG  SELANGOR    ,address
+1320-TMN BATU    ,address
+03-02-16    ,date
+82.80    ,total
+82.80    ,total
+82.80    ,total
+LG226  LGF  1 UTAMA SHOPPING CENTRE     ,address
+LEBUH BANDAR UTAMA  47800 PETALING JAYA.    ,address
+RM96.20    ,total
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+RM 21.00    ,total
+RM 21.00    ,total
+RM 1.19    ,total
+25-01-16 11:59 SH01 ZJ08    ,date
+MR. D.I.Y. (KUCHAI) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+RM 57.40    ,total
+RM 100.00    ,total
+RM 42.60    ,total
+RM 3.25    ,total
+24-01-16 11:44 SH01 B003    ,date
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 33198  BATU 4    ,address
+JALAN KAPAR  MUKIM KAPAR    ,address
+42100 KLANG  SELANGOR    ,address
+1181-TMN SRI SINAR    ,address
+24-01-16    ,date
+13.60    ,total
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+RM 64.70    ,total
+RM 100.00    ,total
+RM 35.30    ,total
+RM 3.66    ,total
+08-01-16 11:55 SH01 ZJ08    ,date
+GOLDEN ARCHES RESTAURANTS SDN BHD    ,company
+LEVEL 6  BANGUNAN TH  DAMANSARA UPTOWN3    ,address
+NO.3  JALAN SS21/39 47400 PETALING JAYA    ,address
+SELANGOR    ,address
+28.20    ,total
+28.20    ,total
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 33198  BATU 4    ,address
+JALAN KAPAR  MUKIM KAPAR    ,address
+42100 KLANG  SELANGOR    ,address
+1558-TMN PUSAT KEPONG    ,address
+30-06-16    ,date
+27.30    ,total
+27.30    ,total
+YAM FRESH    ,company
+NO.145G  JALAN RIMBUNAN RAYA 1     ,address
+LAMAN RIMBUNAN KEPONG     ,address
+52100 KUALA LUMPUR    ,address
+1    ,address
+RM8.35    ,total
+FOUR QUARTERS SDN BHD (1079369-P)    ,company
+NO.128G JLN SS21/35    ,address
+DAMANSARA UTAMA PETALING JAYA    ,address
+47400 SELANGOR    ,address
+06/07/16    ,date
+43.90    ,total
+43.90    ,total
+06/07/16 13:54 #001-1105624#    ,date
+ECOSWAY.COM SDN BHD (509213A)    ,company
+2ND FLOOR  WISMA COSWAY  JALAN RAJA CHULAN     ,address
+50200 KUALA LUMPUR  MALAYSIA.    ,address
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 33198  BATU 4    ,address
+JALAN KAPAR  MUKIM KAPAR    ,address
+42100 KLANG  SELANGOR    ,address
+1174-PERMATA MAGNA    ,address
+04-06-16    ,date
+2.10    ,total
+MR. D.I.Y. (KUCHAI) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+RM 13.30    ,total
+RM 13.30    ,total
+RM 0.75    ,total
+07-06-16 15:26 SH08 B019    ,date
+SIN THYE & COMPANY    ,company
+NO.54  BATU 5 JALAN IPOH     ,address
+KG.BATU     ,address
+51200 KUALA LUMPUR    ,address
+110.00    ,total
+110.00    ,total
+MR. D.I.Y. (KUCHAI) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+RM 12.50    ,total
+RM 15.00    ,total
+RM 2.50    ,total
+RM 0.71    ,total
+22-04-16 13:13 SH01 B003    ,date
+12.50    ,total
+NADEJE PLATINUM SDN BHD    ,company
+NO.1 LEBUH BANDAR UTAMA     ,address
+47800 PETALING JAYA  SELANGOR.    ,address
+RM51.30    ,total
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+RM 68.10    ,total
+RM 100.10    ,total
+RM 32.00    ,total
+RM 3.85    ,total
+22-04-16 12:01 SH01 ZJ08    ,date
+ANEKA INTERTRADE MARKETING SDN BHD (524463-X)    ,company
+LOT NO2  JALAN UTARID U5/13     ,address
+SEKSYEN U5  40150 SHAH ALAM     ,address
+SELANGOR DARUL EHSAN  MALAYSIA    ,address
+19/05/16 12:01:43 PM    ,date
+19/05/16 12:01:50 PM    ,date
+6.85    ,total
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 33198  BATU 4    ,address
+JALAN KAPAR  MUKIM KAPAR    ,address
+42100 KLANG  SELANGOR    ,address
+1605-TMN SRI BINTANG    ,address
+11-05-16    ,date
+177.20    ,total
+177.20    ,total
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+RM 21.50    ,total
+RM 51.50    ,total
+RM 30.00    ,total
+RM 1.22    ,total
+22-05-16 12:18 SH01 ZJ19    ,date
+BEST DENKI MALAYSIA (308282-A)    ,company
+LOT LG 26  SUBANG PARADE    ,address
+NO.5  JALAN SS16/1    ,address
+47500 SUBANG JAYA  SELANGOR    ,address
+BEST DENKI 1 UTAMA    ,company
+89.00    ,total
+89.00 S    ,total
+89.00    ,total
+89.00    ,total
+01/05/16    ,date
+EDEN IMPRESSION SDN BHD    ,company
+LOT NO : 20  LEVEL UG1  PUBLIKA SOLARIS    ,address
+DUTAMAS.    ,address
+NO 1  JALAN DUTAMAS  50480 KL    ,address
+20/10/2016    ,date
+RM9.75    ,total
+UROKO JAPANESE CUISINE SDN BHD    ,company
+22A-1  JALAN 17/54     ,address
+SECTION 17     ,address
+46400 PETALING JAYA     ,address
+SELANGOR.    ,address
+87.10    ,total
+FTOF NOODLE HOUSE    ,company
+NO.25  JALAN METRO PERDANA BARAT 2     ,address
+TAMAN USAHAWAN KEPONG  KEPONG UTARA     ,address
+52100 KUALA LUMPUR.    ,address
+RM31.60    ,total
+RM31.60    ,total
+RM31.60    ,total
+EIGHT OUNCE    ,company
+COFFEE    ,company
+EIGHT OUNCE COFFEE CO. THE GARDENS MALL    ,company
+F.K06  FIRST FLOOR  THE GARDENS MALL     ,address
+MID VALLEY CITY  LINGKARAN SYED PUTRA     ,address
+59200 KUALA LUMPUR.    ,address
+39.90    ,total
+39.90    ,total
+SKCA HARDWARE & TIMBER SDN. BHD.    ,company
+LOT 204 & 205  JALAN BATU 12 1/4     ,address
+KG. DUSUN NANDING  43100 HULU LANGAT     ,address
+SELANGOR DARUL EHSAN.    ,address
+142.00    ,total
+142.00    ,total
+01-NOV-2017 11:20:04AM R05934    ,date
+ANN GIAP TRADING SDN BHD    ,company
+NO. 135  JALAN BANGI  43500    ,address
+SEMENYIH  SELANGOR    ,address
+66.00    ,total
+66.00    ,total
+66.00    ,total
+KEDAI UHAT DAN RUNCIT CHONG HWA    ,company
+3  JALAN PERDANA 5  TAMAN INDAH PERDANA     ,address
+KEPONG  52100 KL.    ,address
+OCT 3  2016 12:16:25 PM    ,date
+RM33.90    ,total
+RM33.90    ,total
+RM33.90    ,total
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 2811  JALAN ANGSA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1243-JLN PUDU ULU    ,address
+14-08-17    ,date
+14.40    ,total
+GUARDIAN HEALTH AND BEAUTY SDN BHD    ,company
+LOT B-005-006 BASEMENT LEVEL 1    ,address
+THE STARLING MALL    ,address
+JALAN SS21/60 DAMANSARA UTAMA.    ,address
+13.78    ,total
+13.78    ,total
+13.78    ,total
+GUARDIAN BRAND PRODUCTS MUST BE MADE    ,company
+07/07/17    ,date
+K STATIONERY & OFFICE SUPPLIES    ,company
+NO.9  JALAN MANIS 3  TAMAN SEGAR    ,address
+CHERAS  56100 KUALA LUMPUR.    ,address
+148.00    ,total
+148.00    ,total
+148.00    ,total
+148.00    ,total
+148.00    ,total
+15/07/2017 12:07    ,date
+MPH BOOKSTORES    ,company
+SDN BHD    ,company
+MPH ONE UTAMA PHASE 2    ,company
+LOT S319  2ND FLOOR     ,address
+1 UTAMA SHOPPING CENTRE     ,address
+NO1  LEBUH BANDAR UTAMA 47800 P.JAYA    ,address
+31.45    ,total
+MPH AT ONE UTAMA    ,company
+BECON STATIONER    ,company
+BECON ENTERPRISE SDN BHD (82256-V)    ,company
+DAMANSARA UTAMA OUTLET    ,address
+NO.41G JLN SS21/60 DAMANSARA    ,address
+UTAMA 47400 PJ  SELANGOR.    ,address
+247.55    ,total
+247.55    ,total
+GUARDIAN HEALTH AND BEAUTY SDN BHD    ,company
+BANDAR BARU RAWANG    ,address
+NO 15 JALAN BANDAR RAWANG 10    ,address
+BANDAR BARU RAWANG    ,address
+2.28 S    ,total
+2.28    ,total
+2.28    ,total
+GUARDIAN BRAND PRODUCTS MUST BE MADE    ,company
+18/05/18    ,date
+GUARDIAN HEALTH AND BEAUTY SDN BHD    ,company
+BANDAR BARU RAWANG    ,address
+NO 15 JALAN BANDAR RAWANG 10    ,address
+BANDAR BARU RAWANG    ,address
+4.50    ,total
+4.50    ,total
+GUARDIAN BRAND PRODUCTS MUST BE MADE    ,company
+24/05/18    ,date
+ECO-SHOP MARKETING SDN BHD    ,company
+LOT F1-01  6  JALAN 8/27A     ,address
+SEKSYEN 5 WANGSA MAJU     ,address
+53300 KUALA LUMPUR     ,address
+WILAYAH PERSEKUTUAN KUALA    ,address
+LUMPUR  MALAYSIA.    ,address
+26/02/2018 17:31    ,date
+16.30    ,total
+DE MAXIMUM THAI EXPRESS SDN BHD    ,company
+BLK 2  UNIT G1 & G2  BESTARI TERRACE     ,address
+LOT PTD 182908 & PTD 143216     ,address
+JALAN DANGA  TAMAN NUSA BESTARI  81300    ,address
+2    ,address
+THAI ICE TEA    ,company
+UNIT PRICE    ,address
+30.70    ,total
+30.70    ,total
+17/05/2018    ,date
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+15 MAY 2018 18:43    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$8.20    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+30 MAY 2018 18:24    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$8.70    ,total
+AEON CO. (M) BHD (126926-H)    ,address
+3RD FLR  AEON TAMAN MALURI SC    ,address
+JLN JEJAKA  TAMAN MALURI    ,address
+CHERAS  55100 KUALA LUMPUR    ,address
+99.90    ,total
+99.90    ,total
+99.90    ,total
+27/05/2018 13:48    ,date
+AEON CO. (M) BHD (126926-H)    ,address
+3RD FLR  AEON TAMAN MALURI SC    ,address
+JLN JEJAKA  TAMAN MALURI    ,address
+CHERAS  55100 KUALA LUMPUR    ,address
+AEON CARD DISC    ,address
+AEON CARD DISC    ,address
+AEON CARD DISC    ,address
+476.80    ,total
+11/05/2018 17:19    ,date
+AEON STAMPS LOYALTY PROGRAM "PRODUCT    ,address
+AEON TEBRAU CITY    ,address
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+16 MAY 2018 18:30    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$8.20    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+14 MAY 2018 18:10    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$8.90    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+07 MAY 2018 18:21    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$8.70    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+10 MAY 2018 12:32    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$10.30    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+09 MAY 2018 18:24    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$6.60    ,total
+$6.60    ,total
+$6.60    ,total
+THE TOAST F&B SDN BHD (965752-T)    ,company
+LOT 2110&2111 JALAN PERMAS UTARA    ,address
+BANDAR BARU PERMAS    ,address
+11/05/2018    ,date
+31.00    ,total
+31.00    ,total
+11/05/2018 08:35:58 PM    ,date
+DE LUXE CIRCLE FRESH MART SDN BHD    ,company
+TAMAN MUTIA RINI  81300 SKUDAI  JOHOR.    ,address
+12/05/18 12:12:57 PM    ,date
+12/05/18 12:13:17 PM    ,date
+12.00    ,total
+12.00    ,total
+VERBENA CONFECTIONERY SDN BHD    ,company
+1  JALAN SUTERA TANJUNG 8/4     ,address
+TMN SUTERA UTAMA  81300 SKUDAI  JB.    ,address
+12/05/2018 15:16    ,date
+1    ,address
+1    ,address
+1    ,address
+75.70    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+22 MAY 2018 18:51    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$11.40    ,total
+$11.40    ,total
+GERBANG ALAF RESTAURANTS SDN BHD    ,company
+LEVEL 6  BANGUNAN TH  DAMANSARA UPTOWN3    ,address
+NO.3  JALAN SS21/39 47400 PETA ING JAYA    ,address
+SELANGOR    ,address
+11.10    ,total
+11.10    ,total
+11.10    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+24 MAY 2018 18:29    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$8.40    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+27 MAY 2018 18:25    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$10.70    ,total
+DOMINO'S PIZZA TAMAN UNIVERSITI    ,company
+30  JLN KEBUDAYAAN 7  TMN UNIVERSITI    ,address
+81300 SKUDAI  JOHOR    ,address
+6.70    ,total
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+RM 31.20    ,total
+RM 31.20    ,total
+RM 1.77    ,total
+06-04-18 16:46 SH01 ZJ86    ,date
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+RM 9.00    ,total
+RM 10.00    ,total
+RM 1.00    ,total
+RM 0.51    ,total
+11-04-18 17:42 SH01 ZJ86    ,date
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+RM 15.40    ,total
+RM 15.40    ,total
+RM 0.87    ,total
+19-04-18 17:39 SH01 ZJ86    ,date
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+RM 34.80    ,total
+RM 100.00    ,total
+RM 65.20    ,total
+RM 1.97    ,total
+19-04-18 18:04 SH01 ZJ86    ,date
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+RM 34.80    ,total
+RM 100.00    ,total
+RM 65.20    ,total
+RM 1.97    ,total
+19-04-18 18:04 SH01 ZJ86    ,date
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+6    ,address
+25-04-18 16:46 SH01 ZJ86    ,date
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+2.10    ,total
+2.10    ,total
+26-04-18    ,date
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+38.00    ,total
+27-04-18    ,date
+AEON CO. (M) BHD (126926-H)    ,address
+3RD FLR  AEON TAMAN MALURI SC    ,address
+JLN JEJAKA  TAMAN MALURI    ,address
+CHERAS  55100 KUALA LUMPUR    ,address
+26.10    ,total
+28/04/2018 15:35    ,date
+AEON BANDAR PUCHONG    ,address
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+28-04-18    ,date
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+30-04-18    ,date
+S&Y STATIONERY    ,company
+BANDAR PINGGIRAN SUBANG     ,address
+SEKSYEN U5     ,address
+40150 SHAH ALAM  SELANGOR.    ,address
+05-JAN-2017 03:17:50 PM    ,date
+NO. DESCRIPTION    ,address
+72.00    ,total
+72.00    ,total
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 2811  JALAN ANGSA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+07-02-17    ,date
+37.45    ,total
+37.45    ,total
+ENW HARDWARE CENTRE (M) SDN. BHD.    ,company
+NO: G3  BLK G  JLN PJU 1A/3     ,address
+ARA DAMANSARA  47301    ,address
+PETALING JAYA  SELANGOR DARUL EHSAN.    ,address
+13/04/2018    ,date
+27.00    ,total
+27.00    ,total
+ENW HARDWARE CENTRE (M) SDN BHD.    ,company
+ENW HARDWARE CENTRE (M) SDN. BHD.    ,company
+NO: G3  BLK G  JLN PJU 1A/3     ,address
+ARA DAMANSARA  47301    ,address
+PETALING JAYA  SELANGOR DARUL EHSAN.    ,address
+14/04/2018    ,date
+156.00    ,total
+156.00    ,total
+ENW HARDWARE CENTRE (M) SDN BHD.    ,company
+ENW HARDWARE CENTRE (M) SDN. BHD.    ,company
+NO: G3  BLK G  JLN PJU 1A/3     ,address
+ARA DAMANSARA  47301    ,address
+PETALING JAYA  SELANGOR DARUL EHSAN.    ,address
+09/04/2018    ,date
+51.00    ,total
+51.00    ,total
+ENW HARDWARE CENTRE (M) SDN. BHD.    ,company
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+27-04-18 16:40 SH01 ZJ42    ,date
+KFA SUPPLY    ,company
+125A TINGKAT BAWAH PT 1961 JALAN MALINJA    ,address
+SITE B 45400 SEKINCHAN SELANGOR    ,address
+11.60    ,total
+11.60 SR    ,total
+11.60    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+13 MAY 2018 18:26    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$8.70    ,total
+DIMILIKI OLEH T PLUS F&B SDN. BHD.    ,company
+PARADIGM MALL    ,address
+LOT NO.: 4F-27 & 4FK-38  4TH FLOOR    ,address
+11/05/2018    ,date
+9.45    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+05 MAY 2018 18:21    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+$11.20    ,total
+DIMILIKI OLEH : DOVE HOLDINGS SDN BHD    ,company
+LOT S25  AEON TEBRAU CITY JUSCO    ,address
+NO 1  JLN DESA TEBRAU  TMN DESA TEBRAU     ,address
+81100 JOHOR BAHRU  JOHOR    ,address
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+164.80    ,total
+26/05/2018 8:53:37    ,date
+OLD TOWN WHITE COFFE    ,company
+OLD TOWN KOPITIAM SDN BHD    ,company
+NO 35  JALAN KEBUDAYAAN 8     ,address
+TAMAN UNIVERSITY 81300 SKUDAI  JOHOR    ,address
+05 MAY 18 18:06:40    ,date
+28.50    ,total
+THE MARCO POLO KITCH    ,company
+BUKIT INDAH    ,address
+06/05/2018 14:29    ,date
+15.15    ,total
+06/05/2018 15:33    ,date
+NO 35 JALAN INDAH 15/2 BUKIT INDAH    ,address
+81200 JOHOR BAHRU JOHOR    ,address
+WARAKUYA PERMAS CITY SDN BHD    ,company
+JALAN PERMAS UTARA 1     ,address
+PERMAS JAYA 81750 MASAI JOHOR    ,address
+1    ,address
+1    ,address
+24.40    ,total
+GERBANG ALAF RESTAURANTS SDN BHD    ,company
+LEVEL 6  BANGUNAN TH  DAMANSARA UPTOWN3    ,address
+NO.3  JALAN SS21/39 47400 PETALING JAYA    ,address
+SELANGOR    ,address
+70.30    ,total
+70.30    ,total
+FARMASI LIGAMAS    ,company
+NO. 47  JALAN MERANTI 1A     ,address
+BANDAR BARU UTAMA     ,address
+44300 BATANG KALI  SELANGOR.    ,address
+25.00    ,total
+25.00    ,total
+25.00    ,total
+25.00    ,total
+25.00    ,total
+SWC ENTERPRISE SDN BHD    ,company
+5-7  JALAN MAHAGONI 7/1    ,address
+SEKSYEN 4  BANDAR UTAMA  44300    ,address
+BATANG KALI  SELANGOR    ,address
+23/03/2018 19:08:32    ,date
+41.20    ,total
+41.20    ,total
+23/03/2018 19:08:32    ,date
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+35.00    ,total
+35.00    ,total
+35.00    ,total
+35.00    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+14.90    ,total
+14.90    ,total
+14.90    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+8.70    ,total
+8.70    ,total
+8.70    ,total
+8.70    ,total
+10/04/2017    ,date
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+8.70    ,total
+8.70    ,total
+8.70    ,total
+8.70    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+3.00    ,total
+3.00    ,total
+3.00    ,total
+3.00    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+14.90    ,total
+14.90    ,total
+14.90    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+2.00    ,total
+2.00    ,total
+2.00    ,total
+2.00    ,total
+2.00    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+3.00    ,total
+3.00    ,total
+3.00    ,total
+3.00    ,total
+3.00    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+5.80    ,total
+5.80    ,total
+5.80    ,total
+5.80    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+5.80    ,total
+5.80    ,total
+5.80    ,total
+5.80    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+36.00    ,total
+36.00    ,total
+36.00    ,total
+36.00    ,total
+14/12/2017    ,date
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+3.90    ,total
+3.90    ,total
+3.90    ,total
+3.90    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+33.50    ,total
+33.50    ,total
+33.50    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+2.00    ,total
+2.00    ,total
+2.00    ,total
+2.00    ,total
+2.00    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+9.30    ,total
+9.30    ,total
+9.30    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+12.00    ,total
+12.00    ,total
+12.00    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+8.70    ,total
+8.70    ,total
+8.70    ,total
+8.70    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+12.40    ,total
+12.40    ,total
+12.40    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+8.70    ,total
+8.70    ,total
+8.70    ,total
+8.70    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+8.70    ,total
+8.70    ,total
+8.70    ,total
+8.70    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+8.70    ,total
+8.70    ,total
+8.70    ,total
+8.70    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+46.90    ,total
+46.90    ,total
+46.90    ,total
+28/12/2017    ,date
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+10.00    ,total
+10.00    ,total
+10.00    ,total
+10.00    ,total
+10.00    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+16.50    ,total
+16.50    ,total
+16.50    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+35.00    ,total
+35.00    ,total
+35.00    ,total
+35.00    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+8.70    ,total
+8.70    ,total
+8.70    ,total
+8.70    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+4.50    ,total
+4.50    ,total
+4.50    ,total
+4.50    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+8.70    ,total
+8.70    ,total
+8.70    ,total
+8.70    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+5.00    ,total
+5.00    ,total
+5.00    ,total
+5.00    ,total
+5.00    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+5.00    ,total
+5.00    ,total
+5.00    ,total
+5.00    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+8.70    ,total
+8.70    ,total
+8.70    ,total
+8.70    ,total
+02/12/2017    ,date
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+9.30    ,total
+9.30    ,total
+9.30    ,total
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+33.60    ,total
+33.60    ,total
+33.60    ,total
+29/11/2017    ,date
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+3.90    ,total
+3.90    ,total
+3.90    ,total
+3.90    ,total
+04/12/2017    ,date
+SANYU STATIONERY SHOP    ,company
+NO. 31G&33G  JALAN SETIA INDAH X  U13/X    ,address
+40170 SETIA ALAM    ,address
+SANYU SUPPLY SDN BHD (1135772-K)    ,company
+7.00    ,total
+7.00    ,total
+7.00    ,total
+7.00    ,total
+7.00    ,total
+11/12/2017    ,date
+AIK HUAT HARDWARE    ,company
+ENTERPRISE (SETIA    ,company
+ALAM) SDN BHD    ,company
+NO. 17-G  JALAN SETIA INDAH    ,address
+(X) U13/X  SETIA ALAM     ,address
+SEKSYEN U13  40170 SHAH ALAM     ,address
+4.00    ,total
+4.00    ,total
+4.00    ,total
+4.00    ,total
+AIK HUAT HARDWARE    ,company
+ENTERPRISE (SETIA    ,company
+ALAM) SDN BHD    ,company
+NO. 17-G  JALAN SETIA INDAH    ,address
+(X) U13/X  SETIA ALAM     ,address
+SEKSYEN U13  40170 SHAH ALAM     ,address
+14.00    ,total
+14.00    ,total
+14.00    ,total
+14.00    ,total
+14.00    ,total
+AIK HUAT HARDWARE    ,company
+ENTERPRISE (SETIA    ,company
+ALAM) SDN BHD    ,company
+NO. 17-G  JALAN SETIA INDAH    ,address
+(X) U13/X  SETIA ALAM     ,address
+SEKSYEN U13  40170 SHAH ALAM     ,address
+6.00    ,total
+6.00    ,total
+6.00    ,total
+6.00    ,total
+AIK HUAT HARDWARE    ,company
+ENTERPRISE (SETIA    ,company
+ALAM) SDN BHD    ,company
+NO. 17-G  JALAN SETIA INDAH    ,address
+(X) U13/X  SETIA ALAM     ,address
+SEKSYEN U13  40170 SHAH ALAM     ,address
+16.00    ,total
+16.00    ,total
+16.00    ,total
+16.00    ,total
+16.00    ,total
+AIK HUAT HARDWARE    ,company
+ENTERPRISE (SETIA    ,company
+ALAM) SDN BHD    ,company
+NO. 17-G  JALAN SETIA INDAH    ,address
+(X) U13/X  SETIA ALAM     ,address
+SEKSYEN U13  40170 SHAH ALAM     ,address
+30.00    ,total
+30.00    ,total
+30.00    ,total
+30.00    ,total
+30.00    ,total
+AIK HUAT HARDWARE    ,company
+ENTERPRISE (SETIA    ,company
+ALAM) SDN BHD    ,company
+NO. 17-G  JALAN SETIA INDAH    ,address
+(X) U13/X  SETIA ALAM     ,address
+SEKSYEN U13  40170 SHAH ALAM     ,address
+24.00    ,total
+24.00    ,total
+24.00    ,total
+AIK HUAT HARDWARE    ,company
+ENTERPRISE (SETIA    ,company
+ALAM) SDN BHD    ,company
+NO. 17-G  JALAN SETIA INDAH    ,address
+(X) U13/X  SETIA ALAM     ,address
+SEKSYEN U13  40170 SHAH ALAM     ,address
+7.00    ,total
+7.00    ,total
+7.00    ,total
+AIK HUAT HARDWARE    ,company
+ENTERPRISE (SETIA    ,company
+ALAM) SDN BHD    ,company
+NO. 17-G  JALAN SETIA INDAH    ,address
+(X) U13/X  SETIA ALAM     ,address
+SEKSYEN U13  40170 SHAH ALAM     ,address
+24.00    ,total
+24.00    ,total
+24.00    ,total
+AIK HUAT HARDWARE    ,company
+ENTERPRISE (SETIA    ,company
+ALAM) SDN BHD    ,company
+NO. 17-G  JALAN SETIA INDAH    ,address
+(X) U13/X  SETIA ALAM     ,address
+SEKSYEN U13  40170 SHAH ALAM     ,address
+16.00    ,total
+16.00    ,total
+16.00    ,total
+16.00    ,total
+16.00    ,total
+AIK HUAT HARDWARE    ,company
+ENTERPRISE (SETIA    ,company
+ALAM) SDN BHD    ,company
+NO. 17-G  JALAN SETIA INDAH    ,address
+(X) U13/X  SETIA ALAM     ,address
+SEKSYEN U13  40170 SHAH ALAM     ,address
+2.50    ,total
+2.50    ,total
+AIK HUAT HARDWARE    ,company
+ENTERPRISE (SETIA    ,company
+ALAM) SDN BHD    ,company
+NO. 17-G  JALAN SETIA INDAH    ,address
+(X) U13/X  SETIA ALAM     ,address
+SEKSYEN U13  40170 SHAH ALAM     ,address
+28.00    ,total
+28.00    ,total
+28.00    ,total
+28.00    ,total
+FY EAGLE ENTERPRISE    ,company
+NO. 42  JALAN PBS 14/11     ,address
+TAMAN PERINDUSTRIAN BUKIT SERDANG     ,address
+43300 SERI KEMBANGAN     ,address
+SELANGOR    ,address
+52.00    ,total
+52.00    ,total
+PUSAT DAGANGAN PHILEO DAMANSARA    ,address
+UNIT 105  BLOCK A PUSAT DAGANGAN PHILEO DAMANSARA     ,address
+NO.9  JALAN 16/11  46350 PETALING JAYA SELANGOR    ,address
+MYNEWS RETAIL SB(306295-X) FKA BISON STORES SB    ,company
+6.00    ,total
+6.00    ,total
+6.00    ,total
+6.00    ,total
+6.00    ,total
+28/06/2018 3:11:35 PM    ,date
+RAPID RAIL SDN BHD    ,company
+NO.1 JALAN PJU 1A/46     ,address
+OFF JALAN LAPANGAN TERBANG SUBANG    ,address
+PETALING JAYA SELANGOR 47301    ,address
+RM 1.90    ,total
+RM 31.40    ,total
+RM 29.50    ,total
+RM 0.50    ,total
+RM 30.00    ,total
+RM 0.00    ,total
+RM 0.00    ,total
+RM 0.50    ,total
+RM 29.50    ,total
+RM 0.00    ,total
+RM 0.00    ,total
+RM 30.00    ,total
+LOT PTD 101051    ,address
+JALAN PERMAS 10/10    ,address
+81750 MASAI  JOHOR    ,address
+ESJAY FUEL ENTERPRISE    ,company
+30-06-2018 09:09:49    ,date
+50.00    ,total
+50.00    ,total
+50.00    ,total
+50.00    ,total
+50.00    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+04 JUN 2018 18:28    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+RM7.70    ,total
+MOONLIGHT CAKE HOUSE SDN BHD 862725-U    ,company
+NO.1  JALAN PERMAS 10/5  BANDAR BARU PERMAS JAYA    ,address
+81750 JOHOR BAHRU  JOHOR  TEL NO.: 07-387 3322    ,address
+RM21.85    ,total
+04/06/2018    ,date
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+09 JUN 2018 18:23    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+RM7.70    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+10 JUN 2018 18:23    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+RM8.50    ,total
+MOONLIGHT CAKE HOUSE SDN BHD    ,company
+NO.1  JALAN PERMAS 10/5  BANDAR BARU PERMAS JAYA    ,address
+81750 JOHOR BAHRU  JOHOR  TEL NO.: 07-387 3322    ,address
+RM15.40    ,total
+09/06/2018    ,date
+AEON CO. (M) BHD    ,address
+3RD FLR  AEON TAMAN MALURI SC    ,address
+JLN JEJAKA  TAMAN MALURI    ,address
+CHERAS  55100 KUALA LUMPUR    ,address
+127.35    ,total
+10/06/2018    ,date
+AEON STAMPS LOYALTY PROGRAM "PRODUCT(S)"    ,address
+AEON PERMAS JAYA    ,address
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+12 JUN 2018 18:18    ,address
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+RM7.70    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+11 JUN 2018 18:32    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+RM6.00    ,total
+DE LUXE CIRCLE FRESH MART SDN BHD    ,company
+NO.89&91  JALAN UTAMA     ,address
+TAMAN MUTIA RINI  81300 SKUDAI  JOHOR.    ,address
+02/06/18    ,date
+02/06/18    ,date
+25.85    ,total
+25.85    ,total
+25.85    ,total
+LEMON TREE RESTAURANT    ,company
+NO 3  JALAN PERMAS 10/8     ,address
+BANDAR BARU PERMAS JAYA  81750 MASAI  JOHOR    ,address
+10.30    ,total
+10.30    ,total
+10.30    ,total
+10.30    ,total
+PASARAYA CINWA SDN BHD    ,company
+NO.6 8  10& 12 JALAN PERMAS 4/3    ,address
+BANDAR BARU PERMAS JAYA     ,address
+81750 JOHOR BAHRU JOHOR.    ,address
+14.20    ,total
+14.20    ,total
+14.20    ,total
+14.20    ,total
+14.20    ,total
+THE TOAST F&B SDN BHD (965752-T)    ,company
+LOT 2110&2111 JALAN PERMAS UTARA    ,address
+BANDAR BARU PERMAS    ,address
+81750 JOHOR BAHRU JOHOR    ,address
+16/06/2018    ,date
+28.15    ,total
+28.15    ,total
+28.15    ,total
+16/06/2018 06:18:40 PM    ,date
+KEDAI RUNCIT ZBH    ,company
+NO.17 JALAN PERMAS 1/7     ,address
+BANDAR BARU PERMAS JAYA     ,address
+81750  MASAI    ,address
+01/06/2018    ,date
+RM43.40    ,total
+RM43.40    ,total
+RM43.40    ,total
+RM43.40    ,total
+AEON CO. (M) BHD (126926-H)    ,address
+3RD FLR  AEON TAMAN MALURI SC    ,address
+JLN JEJAKA  TAMAN MALURI    ,address
+CHERAS  55100 KUALA LUMPUR    ,address
+38.60    ,total
+38.60    ,total
+38.60    ,total
+12/06/2018 19:40    ,date
+38.60    ,total
+38.60    ,total
+AEON STAMPS LOYALTY PROGRAM "PRODUCT(S)"    ,address
+AEON PERMAS JAYA    ,address
+GRANDMA HOMES RESTAURANT    ,company
+NO.3 & 5  JALAN PERMAS 11     ,address
+BANDAR BARU PERMAS JAYA     ,address
+81750 MASAI     ,address
+JOHOR    ,address
+13/06/2018    ,date
+473.30    ,total
+473.30    ,total
+473.30    ,total
+473.30    ,total
+473.30    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+16 JUN 2018 18:25    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+RM7.70    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+18 JUN 2018 18:29    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU  JOHOR    ,address
+RM8.20    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+20 JUN 2018 18:15    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU JOHOR    ,address
+RM8.20    ,total
+MOONLIGHT CAKE HOUSE SDN BHD 862725-U    ,company
+NO.1  JALAN PERMAS 10/5  BANDAR BARU PERMAS JAYA    ,address
+81750 JOHOR BAHRU  JOHOR.    ,address
+RM14.20    ,total
+20/06/2018 18:07:10    ,date
+GERBANG ALAF RESTAURANTS SDN BHD    ,company
+LEVEL 6  BANGUNAN TH  DAMANSARA UPTOWN3    ,address
+NO.3  JALAN SS21/39 47400 PETALING JAYA    ,address
+SELANGOR    ,address
+12.80    ,total
+12.80    ,total
+12.80    ,total
+UNIHAKKA INTERNATIONAL SDN BHD    ,company
+22 JUN 2018 18:07    ,date
+12  JALAN TAMPOI 7/4 KAWASAN PERINDUSTRIAN    ,address
+TAMPOI 81200 JOHOR BAHRU  JOHOR    ,address
+RM8.50    ,total
+IDEAL MENU GROUP SDN BHD    ,company
+31 31A  JALAN HANG TUAH 9     ,address
+TAMAN SKUDAI BARU     ,address
+81300 SKUDAI     ,address
+JOHOR    ,address
+10/06/2018    ,date
+12.00    ,total
+12.00    ,total
+12.00    ,total
+12.00    ,total
+12.00    ,total
+12.00    ,total
+12.00    ,total
+LAVENDER    ,company
+LAVENDER CONFECTIONERY & BAKERY S/B    ,company
+LOT G29 & G30  AEON MALL TEBRAU CITY     ,address
+NO. 1  JALAN DESA TEBRAU     ,address
+TAMAN DESA TEBRAU  81100 JOHOR BAHRU.    ,address
+17/06/2018 18:21    ,date
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+26.50    ,total
+26.50    ,total
+PASIR EMAS HARDWARE SDN BHD    ,address
+NO 69 JALAN PENGKALAN 5     ,address
+TAMAN PASIR EMAS     ,address
+KG PASIR PUTIH     ,address
+81700 PASIR GUDANG JOHOR.    ,address
+36.00    ,total
+36.00    ,total
+36.00    ,total
+36.00    ,total
+RESTORAN DE COFFEE O    ,company
+NO 33  35  G F JALAN TEMENGGUNG 3/9     ,address
+BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+03/04/2018    ,date
+11.60    ,total
+11.60    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+7.80    ,total
+7.80    ,total
+7.80    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+8.60    ,total
+8.60    ,total
+8.60    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+4.80    ,total
+4.80    ,total
+4.80    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+19.40    ,total
+19.40    ,total
+19.40    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+6.70    ,total
+6.70    ,total
+6.70    ,total
+GERBANG ALAF RESTAURANTS SDN BHD    ,company
+LEVEL 6  BANGUNAN TH  DAMANSARA UPTOWN3    ,address
+NO.3  JALAN SS21/39 47400 PETALING JAYA    ,address
+SELANGOR    ,address
+18.90    ,total
+18.90    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+2.40    ,total
+2.40    ,total
+2.40    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+5.00    ,total
+5.00    ,total
+5.00    ,total
+SANG KEE CHERAS RESTAURANT    ,company
+69  JALAN TEMENGGUNG 3/9    ,address
+BANDAR MAHKOTA CHERAS    ,address
+43200 CHERAS    ,address
+SELANGOR    ,address
+03/05/2018 20:24    ,date
+2.50    ,total
+2.50    ,total
+2.50    ,total
+2.50    ,total
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+2.70    ,total
+2.70    ,total
+28-05-18 17:00 SH01 ZJ94    ,date
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+03-05-18 14:12 SH02 ZJ94    ,date
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+4.20    ,total
+4.20    ,total
+4.20    ,total
+4.20    ,total
+4.20    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+4.60    ,total
+4.60    ,total
+4.60    ,total
+4.60    ,total
+4.60    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+6.50    ,total
+6.50    ,total
+6.50    ,total
+6.50    ,total
+6.50    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+4.60    ,total
+4.60    ,total
+4.60    ,total
+4.60    ,total
+4.60    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+4.80    ,total
+4.80    ,total
+4.80    ,total
+4.80    ,total
+4.80    ,total
+PAPPARICH BMC    ,company
+NO.19 & 21    ,address
+JALAN TEMENGGUNG 23/9    ,address
+BANDAR MAHKOTA CHERAS    ,address
+43200 SELANGOR DARUL EHSAN  MALAYSIA    ,address
+15 JUN 18 08:34:31 PM    ,date
+17.22    ,total
+10 GRAM GOURMET SBN BHD    ,company
+NO 3  JALAN TEMENGGUNG 27/9    ,address
+BANDAR MAHKOTA CHERAS     ,address
+43200 SELANGOR.    ,address
+15.00    ,total
+15.00    ,total
+15.00    ,total
+15.00    ,total
+15.00    ,total
+11-06-2018    ,date
+15.00    ,total
+15.00    ,total
+LEONG HENG SHELL SERVICE STATION    ,company
+LOT 26151 BANDAR SG LONG     ,address
+11 1/4 MILES CHERAS     ,address
+43000 KAJANG  SELANGOR    ,address
+50.00 C    ,total
+50.00    ,total
+50.00    ,total
+50.00    ,total
+20/06/18 00:05 90554 01 4145    ,date
+PROSPER NIAGA    ,company
+LOT PT 1138  PT 33122     ,address
+BANDAR MAHKOTA CHERAS    ,address
+43200 CHERAS  SELANGOR    ,address
+100.00 K    ,total
+100.00    ,total
+100.00    ,total
+100.00    ,total
+26/06/18 22:40 45107 02 9577    ,date
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+4.80    ,total
+4.80    ,total
+4.80    ,total
+4.80    ,total
+4.80    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+6.70    ,total
+6.70    ,total
+6.70    ,total
+6.70    ,total
+6.70    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+4.60    ,total
+4.60    ,total
+4.60    ,total
+4.60    ,total
+4.60    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+4.10    ,total
+4.10    ,total
+4.10    ,total
+4.10    ,total
+4.10    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+7.80    ,total
+7.80    ,total
+7.80    ,total
+7.80    ,total
+7.80    ,total
+RESTORAN WAN SHENG    ,company
+NO.2  JALAN TEMENGGUNG 19/9     ,address
+SEKSYEN 9  BANDAR MAHKOTA CHERAS     ,address
+43200 CHERAS  SELANGOR    ,address
+9.60    ,total
+9.60    ,total
+9.60    ,total
+9.60    ,total
+9.60    ,total
+MIZU MENTAI SDN. BHD. (1248446-V)    ,company
+NO: 1-1&2 GROUND FLOOR     ,address
+JLN TEMENGGUNG 13/9     ,address
+43200 CHERAS SELANGOR.    ,address
+68.00    ,total
+04-06-2018    ,date
+68.00    ,total
+MR. D.I.Y. (KUCHAI) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+8.95    ,total
+8.95    ,total
+15-06-18 17:12 SH02 B003    ,date
+MR. D.I.Y. (KUCHAI) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+30-06-18 13:27 SH01 B003    ,date
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 2811  JALAN ANGSA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1237-TMN INDAH PERDANA    ,address
+02-05-18    ,date
+23.60    ,total
+23.60    ,total
+99 SPEED MART S/B (519537-X)    ,company
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1237-TMN INDAH PERDANA    ,address
+05-05-18    ,date
+137.15    ,total
+99 SPEED MART S/B (519537-X)    ,company
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1237-TMN INDAH PERDANA.    ,address
+13-05-18    ,date
+22.90    ,total
+99 SPEED MART S/B (519537-X)    ,company
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1237-TMN INDAH PERDANA    ,address
+04-06-18    ,date
+23.40    ,total
+23.40    ,total
+99 SPEED MART S/B (519537-X)    ,company
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1237-TMN INDAH PERDANA    ,address
+04-06-18    ,date
+20.90    ,total
+20.90    ,total
+MR. D.I.Y. (KUCHAI) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+11-06-18 17:17 SH02 B003    ,date
+MR. D.I.Y. (KUCHAI) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+17.45    ,total
+17.45    ,total
+25-06-18 11:25 SH01 B003    ,date
+FILL IN ENTERPRISE    ,company
+LOT 2407  JALAN DUA    ,address
+52100 KEPONG BARU  KL    ,address
+100.00 C    ,total
+100.00    ,total
+100.00    ,total
+100.00    ,total
+03/06/18 00:23 34001 01 5093    ,date
+C W KHOO HARDWARE SDN BHD    ,company
+NO.50  JALAN PBS 14/11     ,address
+KAWASAN PERINDUSTRIAN BUKIT SERDANG     ,address
+19.00    ,total
+19.00    ,total
+DION REALTIES SDN BHD (CO. NO:20154-T)    ,address
+MENARA DION #02-03  LEVEL 2     ,address
+27  JALAN SULTAN ISMAIL     ,address
+50250 KUALA LUMPUR.    ,address
+30/05/18 11:01    ,date
+5.00 RM    ,total
+30/05/18 10:45 - 30/05/18 11:01    ,date
+5.00 RM    ,total
+5.00 RM    ,total
+DION REALTIES SDN BHD (CO. NO:20154-T)    ,address
+MENARA DION #02-03  LEVEL 2     ,address
+27  JALAN SULTAN ISMAIL     ,address
+50250 KUALA LUMPUR.    ,address
+28/05/18 11:41    ,date
+5.00 RM    ,total
+28/05/18 11:23 - 28/05/18 11:40    ,date
+5.00 RM    ,total
+5.00 RM    ,total
+SANJUNG REALITI SDN. BHD. (779763-K)    ,company
+CAR PARK OFFICE  BASEMANT 1     ,address
+LABUHRAYA SPRINT  PJU6A     ,address
+47400 PETALING JAYA  SELANGOR    ,address
+27/06/18 10:08    ,date
+1.50 RM    ,total
+27/06/18 09:49 - 27/06/18 10:08    ,date
+1.50 RM    ,total
+C W KHOO HARDWARE SDN BHD    ,company
+NO.50  JALAN PBS 14/11     ,address
+KAWASAN PERINDUSTRIAN BUKIT SERDANG     ,address
+48.00    ,total
+48.00 SR    ,total
+48.00    ,total
+48.00    ,total
+48.00    ,total
+48.00    ,total
+DION REALTIES SDN BHD (CO. NO:20154-T)    ,address
+MENARA DION #02-03  LEVEL 2     ,address
+27  JALAN SULTAN ISMAIL     ,address
+50250 KUALA LUMPUR.    ,address
+25/06/18 11:18    ,date
+5.00 RM    ,total
+25/06/18 11:03 - 25/06/18 11:18    ,date
+5.00 RM    ,total
+5.00 RM    ,total
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KP8 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+17-06-18 12:56 SH01 ZJ42    ,date
+OASIS VILLAGE    ,address
+LOUNGE 2  GROUND FLOOR  OASIS VILLAGE NO 2     ,address
+JALAN PJU 1A/7A  OASIS SQUARE OASIS DAMANSARA.     ,address
+47301 PETALING JAYA SELANGOR    ,address
+MYNEWS RETAIL SB(306295-X) FKA BISON STORES SB    ,company
+7.70    ,total
+7.70    ,total
+7.70    ,total
+29/06/2018 8:26:57 AM    ,date
+OGN GROUP SDN BHD    ,company
+NO.29M JALAN DINAR G U3/G SEKSYEN U3     ,address
+SUBANG PERDANA  40150 SHAH ALAM    ,address
+28.30    ,total
+OGN GROUP SDN BHD    ,company
+NO.29M  JALAN DINAR G U3/G  SEKSYEN U3     ,address
+SUBANG PERDANA  40150 SHAH ALAM    ,address
+52.40    ,total
+52.40    ,total
+52.40    ,total
+PANDAH INDAH PULAU KETAM RESTAURANT    ,address
+M4-A-8  JALAN PANDAH INDAH 4/1A     ,address
+PANDAH INDAH  55100 KUALA LUMPUR     ,address
+93.00    ,total
+93.00    ,total
+RESTAURANT JIAWEI    ,company
+JIAWEI HOUSE    ,company
+13  JLN TASIK UTAMA 8    ,address
+MEDAN NIAGA DAMAI SG BESI    ,address
+57000 KL    ,address
+11/5/2018 13:14:32    ,date
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 2811  JALAN ANGSA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1249-TMN PANDAN CAHAYA    ,address
+03-05-18    ,date
+19.90    ,total
+19.90    ,total
+ONE ONE THREE SEAFOOD RESTAURANT SDN BHD    ,company
+NO.1  TAMAN SRI DENGKIL  JALAN AIR HITAM    ,address
+43800 DENGKIL  SELANGOR.    ,address
+65.70    ,total
+28-04-2018    ,date
+65.70    ,total
+ONE ONE THREE SEAFOOD RESTAURANT SDN BHD    ,company
+43800 DENGKIL  SELANGOR.    ,address
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+52.00    ,total
+52.00    ,total
+52.00    ,total
+05-06-2018    ,date
+52.00    ,total
+52.00    ,total
+ONE ONE THREE SEAFOOD RESTAURANT SDN BHD    ,company
+43800 DENGKIL  SELANGOR.    ,address
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+71.00    ,total
+22-05-2018    ,date
+71.00    ,total
+ONE ONE THREE SEAFOOD RESTAURANT SDN BHD    ,company
+43800 DENGKIL  SELANGOR.    ,address
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+112.35    ,total
+28-05-2018    ,date
+112.35    ,total
+ONE ONE THREE SEAFOOD RESTAURANT SDN BHD    ,company
+43800 DENGKIL  SELANGOR.    ,address
+1    ,address
+1    ,address
+1    ,address
+42.40    ,total
+42.40    ,total
+19-05-2018    ,date
+42.40    ,total
+MEGAH RETAIL SDN BHD    ,company
+3-7  GROUND FLOOR     ,address
+JLN PURTA DENGKIL 1    ,address
+TMN PUTRA DENGKIL    ,address
+43800 DENGKIL  SELANGOR DARUL EHSAN    ,address
+09/05/2018    ,date
+1    ,address
+1    ,address
+4.70    ,total
+99 SPEED MART S/B (519537-X)    ,company
+LOT P.T. 2811  JALAN ANGSA     ,address
+TAMAN BERKELEY    ,address
+41150 KLANG  SELANGOR    ,address
+1225-DENGKIL    ,address
+27.90    ,total
+KEDAI PAPAN YEW CHUAN    ,company
+LOT 276 JALAN BANTING    ,address
+43800 DENGKIL  SELANGOR    ,address
+DENGKIL SELANGOR    ,address
+87.45    ,total
+87.45    ,total
+87.45    ,total
+87.45    ,total
+KEDAI PAPAN YEW CHUAN    ,company
+LOT 276 JALAN BANTING    ,address
+43800 DENGKIL  SELANGOR.    ,address
+DENGKIL SELANGOR    ,address
+190.80    ,total
+190.80    ,total
+190.80    ,total
+KEDAI PAPAN YEW CHUAN    ,company
+LOT 276 JALAN BANTING    ,address
+43800 DENGKIL  SELANGOR.    ,address
+DENGKIL SELANGOR    ,address
+121.90    ,total
+121.90    ,total
+121.90    ,total
+121.90    ,total
+KEDAI PAPAN YEW CHUAN    ,company
+LOT 276 JALAN BANTING    ,address
+43800 DENGKIL  SELANGOR.    ,address
+DENGKIL SELANGOR    ,address
+178.08    ,total
+178.08    ,total
+178.08    ,total
+KEDAI PAPAN YEW CHUAN    ,company
+LOT 276 JALAN BANTING    ,address
+43800 DENGKIL  SELANGOR.    ,address
+DENGKIL SELANGOR    ,address
+361.46    ,total
+361.46    ,total
+361.46    ,total
+KEDAI PAPAN YEW CHUAN    ,company
+LOT 276 JALAN BANTING    ,address
+43800 DENGKIL  SELANGOR.    ,address
+DENGKIL SELANGOR    ,address
+404.39    ,total
+404.39    ,total
+404.39    ,total
+KEDAI PAPAN YEW CHUAN    ,company
+LOT 276 JALAN BANTING    ,address
+43800 DENGKIL  SELANGOR.    ,address
+DENGKIL SELANGOR    ,address
+162.71    ,total
+162.71    ,total
+162.71    ,total
+KEDAI PAPAN YEW CHUAN    ,company
+LOT 276 JALAN BANTING    ,address
+43800 DENGKIL  SELANGOR.    ,address
+DENGKIL SELANGOR    ,address
+68.90    ,total
+68.90    ,total
+68.90    ,total
+68.90    ,total
+68.90    ,total
+GH DISTRIBUTOR & MARKETING SDN BHD    ,company
+216  MACALISTER ROAD  10400 PENANG.    ,address
+10400 PENANG.    ,address
+20/06/2018 #1    ,date
+20/06/2018 12:56 PM    ,date
+85.20    ,total
+85.20    ,total
+85.20    ,total
+AMTECH ELECTRICAL SUPPLIES    ,company
+107  JALAN BANDAR RAWANG 2     ,address
+PUSAT BANDAR RAWANG     ,address
+48000 RAWANG  SELANGOR D E    ,address
+136.00    ,total
+136.00    ,total
+136.00    ,total
+KT WONG TRADING (001904043-H)    ,company
+22  JALAN PERINDUSTRIAN HIJAU 5     ,address
+TAMAN PERINDUSTRIAN HIJAU     ,address
+09/06/2018 12:17:20 PM    ,date
+489.30    ,total
+489.30    ,total
+489.30    ,total
+09/06/2018    ,date
+489.30    ,total
+POPULAR BOOK    ,company
+CO. (M) SDN BHD    ,company
+NO 8  JALAN 7/118B  DESA TUN RAZAK    ,address
+56000 KUALA LUMPUR  MALAYSIA    ,address
+03/04/18 19:19    ,date
+7.30 T    ,total
+7.30    ,total
+OCEAN LC PACKAGING ENTERPRISE    ,company
+41-1  JLN RADIN ANUM 2  SRI    ,address
+PETALING  57000 KUALA LUMPUR.    ,address
+27/06/2018    ,date
+RM152.00    ,total
+RM152.00    ,total
+RM152.00    ,total
+RM152.00    ,total
+MR. D.I.Y. (M) SDN BHD    ,company
+LOT 1851-A & 1851-B  JALAN KPB 6     ,address
+KAWASAN PERINDUSTRIAN BALAKONG     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+15-07-18    ,date
+PASAR RAYA MEGA MAJU    ,company
+(SEMENYIH) SDN BHD    ,company
+NO 24  25 & 26     ,address
+JALAN PUSAT PERNIAGAAN BUNGA RAYA 4     ,address
+PUSAT PERNIAGAAN BUNGA RAYA     ,address
+4    ,address
+30.45    ,total
+30.45    ,total
+30.45    ,total
+ONE ONE THREE SEAFOOD RESTAURANT SDN BHD    ,company
+43800 DENGKIL  SELANGOR.    ,address
+14-06-2018 20:41:44    ,date
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+1    ,address
+59.00    ,total
+59.00    ,total
+59.00    ,total
+59.00    ,total
+59.00    ,total
+ONE ONE THREE SEAFOOD RESTAURANT SDN BHD    ,company
+NO.1  TAMAN SRI DENGKIL  JALAN AIR HITAM    ,address
+43800 DENGKIL  SELANGOR.    ,address
+35.00    ,total
+35.00    ,total
+35.00    ,total
+13-06-2018    ,date
+35.00    ,total
+35.00    ,total
+ONE ONE THREE SEAFOOD RESTAURANT SDN BHD    ,company
+NO.1  TAMAN SRI DENGKIL  JALAN AIR HITAM    ,address
+43800 DENGKIL  SELANGOR.    ,address
+87.45    ,total
+87.45    ,total
+30-05-2018    ,date
+87.45    ,total
+ONE ONE THREE SEAFOOD RESTAURANT SDN BHD    ,company
+NO.1  TAMAN SRI DENGKIL  JALAN AIR HITAM    ,address
+43800 DENGKIL  SELANGOR.    ,address
+58.00    ,total
+58.00    ,total
+58.00    ,total
+17-06-2018    ,date
+58.00    ,total
+58.00    ,total
+ONE ONE THREE SEAFOOD RESTAURANT SDN BHD    ,company
+NO.1  TAMAN SRI DENGKIL  JALAN AIR HITAM    ,address
+43800 DENGKIL  SELANGOR.    ,address
+148.50    ,total
+148.50    ,total
+148.50    ,total
+15-06-2018    ,date
+148.50    ,total
+148.50    ,total
+ONE ONE THREE SEAFOOD RESTAURANT SDN BHD    ,company
+43800 DENGKIL  SELANGOR.    ,address
+1    ,address
+1    ,address
+1    ,address
+38.00    ,total
+38.00    ,total
+38.00    ,total
+20-06-2018    ,date
+38.00    ,total
+38.00    ,total
+ONE ONE THREE SEAFOOD RESTAURANT SDN BHD    ,company
+NO.1  TAMAN SRI DENGKIL  JALAN AIR HITAM    ,address
+43800 DENGKIL  SELANGOR.    ,address
+179.50    ,total
+179.50    ,total
+179.50    ,total
+23-06-2018    ,date
+179.50    ,total
+179.50    ,total
+GL HANDICRAFT & TAIL ORING    ,company
+19  JALAN KANCIL     ,address
+OFF JALAN PUDU     ,address
+55100 KUALA LUMPUR    ,address
+MALAYSIA    ,address
+20/03/2018 13:01    ,date
+102.00    ,total
+102.00    ,total
+102.00    ,total
+102.00    ,total
+102.00    ,total
+LIAN HING STATIONERY SDN BHD    ,company
+NO.32 & 33  JALAN SR 1/9  SEKSYEN 9     ,address
+TAMAN SERDANG RAYA     ,address
+43300 SERI KEMBANGAN  SELANGOR    ,address
+DARUL EHSAN    ,address
+27/03/2018    ,date
+SR    ,address
+12.00    ,total
+12.00    ,total
+12.00    ,total
