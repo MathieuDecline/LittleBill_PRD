@@ -1,5 +1,8 @@
 # API to make prediction with chosen model
 
+# Port
+app running on [localhost:80]
+
 ## Either
 
 Require model training and saving on Google Colaboratory :
