@@ -1,2 +1,2 @@
-## uploaded images from localhost:5000/upload
+## Uploaded images from localhost:5000/upload
 
